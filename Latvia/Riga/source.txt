@@ -1,0 +1,5 @@
+Download page with geographical reference and traffic counts:
+https://data.gov.lv/dati/eng/dataset/satiksmes-uzskaites-dati
+
+Download annual data directly:
+https://data.lvceli.lv/maps/csv/avg_traffic_data_year.csv

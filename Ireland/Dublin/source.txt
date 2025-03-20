@@ -1,0 +1,5 @@
+Referential:
+https://data.smartdublin.ie/dataset/traffic-signals-and-scats-sites-locations-dcc
+
+Traffic volume - can be downloaded month by month 
+https://data.smartdublin.ie/dataset/dcc-scats-detector-volume-jul-dec-2022

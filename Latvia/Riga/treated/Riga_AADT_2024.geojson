@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "DEVICE_ID": 24, "AADT": 8361.4468823383995, "Street_name": "A4 14", "closest_road": "Unnamed Road", "highway": "trunk", "osmid": 363368424.0, "distance": 6.156885192344256 }, "geometry": { "type": "Point", "coordinates": [ 24.406482, 56.903287 ] } },
+{ "type": "Feature", "properties": { "DEVICE_ID": 32, "AADT": 13436.678477769914, "Street_name": "A1 9", "closest_road": "Rīga (Baltezers) — Igaunijas robeža (Ainaži)", "highway": "trunk", "osmid": 1117401941.0, "distance": 28.009012338241725 }, "geometry": { "type": "Point", "coordinates": [ 24.313568, 57.087778 ] } },
+{ "type": "Feature", "properties": { "DEVICE_ID": 34, "AADT": 10030.469892473118, "Street_name": "A4 7", "closest_road": "Unnamed Road", "highway": "trunk", "osmid": 833873847.0, "distance": 0.73750790336162342 }, "geometry": { "type": "Point", "coordinates": [ 24.372046, 56.962499 ] } },
+{ "type": "Feature", "properties": { "DEVICE_ID": 38, "AADT": 17312.11715486343, "Street_name": "A6 23", "closest_road": null, "highway": null, "osmid": null, "distance": null }, "geometry": { "type": "Point", "coordinates": [ 24.397802, 56.846312 ] } },
+{ "type": "Feature", "properties": { "DEVICE_ID": 43, "AADT": 14811.223961809417, "Street_name": "A5 23", "closest_road": null, "highway": null, "osmid": null, "distance": null }, "geometry": { "type": "Point", "coordinates": [ 24.02011, 56.843209 ] } },
+{ "type": "Feature", "properties": { "DEVICE_ID": 45, "AADT": 8580.2729606970697, "Street_name": "P137 8 ", "closest_road": "Rīga — Bauska — Lietuvas robeža (Grenctāle)", "highway": "primary", "osmid": 804835190.0, "distance": 15.582246867806081 }, "geometry": { "type": "Point", "coordinates": [ 24.246731, 56.816011 ] } },
+{ "type": "Feature", "properties": { "DEVICE_ID": 2052, "AADT": 43746.26926214312, "Street_name": "A10 17", "closest_road": "Rīga — Ventspils", "highway": "trunk", "osmid": 134473044.0, "distance": 11.069552751970345 }, "geometry": { "type": "Point", "coordinates": [ 23.902477, 56.958307 ] } }
+]
+}

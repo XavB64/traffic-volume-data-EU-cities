@@ -1,0 +1,8 @@
+Historical data:
+https://parisdata.opendatasoft.com/explore/dataset/comptages-routiers-permanents-historique/information/
+
+Sensors location:
+https://parisdata.opendatasoft.com/explore/dataset/referentiel-comptages-routiers/information/
+
+Current year / more recent data:
+https://opendata.paris.fr/explore/dataset/comptages-routiers-permanents/information/?disjunctive.libelle&disjunctive.libelle_nd_amont&disjunctive.libelle_nd_aval&disjunctive.etat_trafic

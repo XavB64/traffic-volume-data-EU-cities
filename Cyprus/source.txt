@@ -1,0 +1,12 @@
+ADT for 2014/2015 without geographical coordinates but only road description
+
+ADT on highways:
+https://data.gov.cy/en/dataset/862
+
+ADT on other roads:
+https://data.gov.cy/en/dataset/863
+
+Road networks (not possible to download data, not sure there is a common road id): primary/secondary/others
+https://data.gov.cy/en/dataset/190
+https://data.gov.cy/en/dataset/191
+https://data.gov.cy/en/dataset/192

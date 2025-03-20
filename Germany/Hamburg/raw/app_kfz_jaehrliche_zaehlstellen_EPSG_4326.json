@@ -1,0 +1,3541 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.913281117204724,
+          53.61529297081295
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 104,
+        "bezeichnung": "A7/A23 AD HH-Nordwest",
+        "letzte_zaehlung": "20.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21478",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02810823410864,
+          53.518026557975
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 118,
+        "bezeichnung": "A252/A255 AK HH-Süd (Nord)",
+        "letzte_zaehlung": "01.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08093832511113,
+          53.50717812905602
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 120,
+        "bezeichnung": "A1/A25 AD HH-Südost",
+        "letzte_zaehlung": "01.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21480",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991159756256096,
+          53.66603567678891
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 201,
+        "bezeichnung": "Tarpen W Essener Straße (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21481",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991413302752948,
+          53.59878784213086
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 202,
+        "bezeichnung": "Meenkwiese W Meenkbrücke",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21482",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90014404663305,
+          53.63588698381894
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 203,
+        "bezeichnung": "Pinneberger Straße NW Siloahweg (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21483",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907271519869525,
+          53.650161307674324
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 204,
+        "bezeichnung": "Holsteiner Chaussee / Schleswiger Damm",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21484",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908191757335556,
+          53.645812748653796
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 205,
+        "bezeichnung": "Holsteiner Chaussee / Marek-James-Straße",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.911238397774905,
+          53.64608622859754
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 206,
+        "bezeichnung": "Schleswiger Damm / Marek-James-Straße",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90750061872377,
+          53.617844824752886
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 207,
+        "bezeichnung": "Holsteiner Chaussee / A23 AS HH-Eidelstedt Knoten Süd",
+        "letzte_zaehlung": "20.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21487",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908159450142263,
+          53.62036568736649
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 208,
+        "bezeichnung": "Holsteiner Chaussee / A23 AS HH-Eidelstedt Knoten Nord",
+        "letzte_zaehlung": "20.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21488",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907729397744742,
+          53.61864309538999
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 209,
+        "bezeichnung": "A23 AS HH-Eidelstedt",
+        "letzte_zaehlung": "01.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.957456876823251,
+          53.61209824315673
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 210,
+        "bezeichnung": "Papenreye O Kollaustraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.931123801222807,
+          53.629232004992375
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 211,
+        "bezeichnung": "Schleswiger Damm / Frohmestraße",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987274494186003,
+          53.60339741845715
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 212,
+        "bezeichnung": "Borsteler Chaussee / Alsterkrugchaussee",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.963882678457209,
+          53.603534188547115
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 213,
+        "bezeichnung": "Nedderfeld O Kollaustraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21493",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.885210056722311,
+          53.62186796241924
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 214,
+        "bezeichnung": "Pinneberger Chaussee NW Wildacker (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21494",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986518293523956,
+          53.65199750179305
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 215,
+        "bezeichnung": "Norderstedt - Niendorfer Straße N Krohnstieg (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21495",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.949718582682245,
+          53.650533254211446
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 216,
+        "bezeichnung": "Oldesloer Straße NO Swebenweg (Landesgrenze)",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21496",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.930103916707548,
+          53.645428789775345
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 217,
+        "bezeichnung": "A7 AS HH-Schnelsen-Nord",
+        "letzte_zaehlung": "13.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.922362635427989,
+          53.63522346591866
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 218,
+        "bezeichnung": "Schleswiger Damm NW AS HH-Schnelsen",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96399418194105,
+          53.599802899629566
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 219,
+        "bezeichnung": "Kollaustraße / Osterfeldstraße",
+        "letzte_zaehlung": "23.11.2022"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21499",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.020263404759778,
+          53.639013418076594
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 220,
+        "bezeichnung": "Ohkamp S Flughafenstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21500",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.026181371378431,
+          53.62982112774152
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 221,
+        "bezeichnung": "Hummelsbütteler Landstraße N Brombeerweg",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.140855033302646,
+          53.629223535866785
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 222,
+        "bezeichnung": "Karlshöher Weg / Berner Allee",
+        "letzte_zaehlung": "06.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21502",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.047046357016516,
+          53.608273732120736
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 223,
+        "bezeichnung": "Steilshooper Allee O Eichenlohweg",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21503",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001041831338776,
+          53.61167868696378
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 224,
+        "bezeichnung": "Alsterdorfer Damm NW Rathenaustraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009879602041314,
+          53.61209882598287
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 225,
+        "bezeichnung": "Hindenburgstraße NW Rathenaustraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.018057182990864,
+          53.615229595374736
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 226,
+        "bezeichnung": "Sengelmannstraße NW Rathenaustraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031249082703225,
+          53.681346714486686
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 227,
+        "bezeichnung": "Tangstedter Landstraße S Am Ochsenzoll (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04651278044694,
+          53.67957834318167
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 228,
+        "bezeichnung": "Glashütter Landstraße N Glashütter Stieg (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21508",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.055845766842275,
+          53.67439075460585
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 229,
+        "bezeichnung": "Harksheider Straße NW Kupferteichweg (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.156071830362928,
+          53.6144164252205
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 230,
+        "bezeichnung": "Meiendorfer Straße / Oldenfelder Stieg",
+        "letzte_zaehlung": "06.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.160631519746522,
+          53.65553298572662
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 231,
+        "bezeichnung": "Halenreie S Buckhorn",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21511",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03125686382273,
+          53.62586733206499
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 232,
+        "bezeichnung": "Wellingsbütteler Landstraße / Fuhlsbüttler Straße",
+        "letzte_zaehlung": "28.03.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21512",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.039332031000432,
+          53.6061926215671
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 233,
+        "bezeichnung": "Fuhlsbüttler Straße S Meister-Bertram-Straße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21513",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031483227992881,
+          53.65002753040517
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 234,
+        "bezeichnung": "Poppenbütteler Weg W Lademannbogen",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.000680963909362,
+          53.68077006100152
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 235,
+        "bezeichnung": "Langenhorner Chaussee S Am Ochsenzoll (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21515",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.090899804210693,
+          53.67236867433551
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 236,
+        "bezeichnung": "Lemsahler Landstraße N An der Alsterschleife",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.087242739210074,
+          53.656149994018975
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 237,
+        "bezeichnung": "Saseler Damm W Poppenbüttler Landstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.068771343371985,
+          53.601286012206614
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 238,
+        "bezeichnung": "Bramfelder Chaussee / Wandsbeker Straße",
+        "letzte_zaehlung": "21.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.116791768167717,
+          53.60732854962067
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 239,
+        "bezeichnung": "August-Krogmann-Straße / Am Luisenhof",
+        "letzte_zaehlung": "20.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01616430623922,
+          53.63460777497455
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 240,
+        "bezeichnung": "Langenhorner Chaussee / Erdkampsweg",
+        "letzte_zaehlung": "28.03.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21520",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.080556802065846,
+          53.61896036419648
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 241,
+        "bezeichnung": "Bramfelder Chaussee / Berner Chaussee",
+        "letzte_zaehlung": "21.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21521",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02957351051955,
+          53.60019146320629
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 242,
+        "bezeichnung": "Jahnring / Saarlandstraße",
+        "letzte_zaehlung": "28.04.2021"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21522",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.141645551877081,
+          53.67585976709055
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 243,
+        "bezeichnung": "Bergstedter Chaussee / Volksdorfer Grenzweg",
+        "letzte_zaehlung": "01.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21523",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.106954117418868,
+          53.65362326595658
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 244,
+        "bezeichnung": "Saseler Chaussee / Stadtbahnstraße",
+        "letzte_zaehlung": "01.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21524",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.026729201470843,
+          53.62747032588329
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 245,
+        "bezeichnung": "Brombeerweg N Ratsmühlendamm",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21525",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.010330108328008,
+          53.64868878745131
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 246,
+        "bezeichnung": "Langenhorner Chaussee /  Krohnstieg",
+        "letzte_zaehlung": "04.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.197342116755314,
+          53.6422003191557
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 247,
+        "bezeichnung": "Ahrensburg - Hamburger Straße / K48",
+        "letzte_zaehlung": "06.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21527",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16718980682021,
+          53.60589475116487
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 248,
+        "bezeichnung": "Rahlstedter Straße / Sieker Landstraße",
+        "letzte_zaehlung": "06.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.737926025025224,
+          53.58511392143008
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 249,
+        "bezeichnung": "Wedeler Landstraße W Schulauer Moorweg (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21529",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801270038315762,
+          53.5141889066122
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 250,
+        "bezeichnung": "Nincoper Straße O Nincoper Ort",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21530",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.81031343413837,
+          53.52893267514294
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 251,
+        "bezeichnung": "Neuenfelder Hauptdeich / Am Rosengarten",
+        "letzte_zaehlung": "28.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21531",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.822368780961323,
+          53.58427566856868
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 252,
+        "bezeichnung": "Schenefelder Landstraße N Holtbarg (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.735546272691861,
+          53.56985665070164
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 253,
+        "bezeichnung": "Schulauer Weg W Tinsdaler Heideweg (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21533",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.822489117082739,
+          53.560903872321745
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 254,
+        "bezeichnung": "Elbchaussee NW Schenefelder Landstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21534",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.823853313653283,
+          53.561182127253616
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 255,
+        "bezeichnung": "Schenefelder Landstraße N Elbchaussee",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.933592458842107,
+          53.54783636093619
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 256,
+        "bezeichnung": "Ottenser Marktplatz W Museumstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21536",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.933562394552013,
+          53.54647027519
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 257,
+        "bezeichnung": "Klopstockstraße W Kaistraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21537",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.976414349811936,
+          53.56302735107053
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 259,
+        "bezeichnung": "Messeplatz N St. Petersburger Straße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974635598923891,
+          53.582853490235365
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 260,
+        "bezeichnung": "Eppendorfer Weg SW Falkenried",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21539",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.891206859380155,
+          53.57278032167911
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 261,
+        "bezeichnung": "Ebertallee S Luruper Chaussee",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21540",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.849630879017433,
+          53.59686728664953
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 262,
+        "bezeichnung": "Am Barls NW Rapsweg (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21541",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.932548936885494,
+          53.56353019740687
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 263,
+        "bezeichnung": "Stresemannstraße O Tasköprüstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21542",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.963799785061896,
+          53.55805989056516
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 264,
+        "bezeichnung": "Stresemannstraße / Neuer Pferdemarkt",
+        "letzte_zaehlung": "16.06.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21543",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.894288369975193,
+          53.51625294052296
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 265,
+        "bezeichnung": "Finkenwerder Straße W Dradenauer Deichweg",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21544",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.944138179697086,
+          53.56933602045198
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 266,
+        "bezeichnung": "Kieler Straße N Langenfelder Straße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.933920910092608,
+          53.58331307706778
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 267,
+        "bezeichnung": "Kieler Straße / Langenfelder Damm",
+        "letzte_zaehlung": "23.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21546",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.949335196730393,
+          53.558651987010194
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 268,
+        "bezeichnung": "Holstenstraße / Max-Brauer-Allee",
+        "letzte_zaehlung": "13.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21547",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970145522466208,
+          53.567518902216406
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 269,
+        "bezeichnung": "Schäferkampsallee / Beim Schlump",
+        "letzte_zaehlung": "20.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21548",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969588394616538,
+          53.58409002784936
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 270,
+        "bezeichnung": "Hoheluftchaussee / Gärtnerstraße",
+        "letzte_zaehlung": "29.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21549",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.837147119031878,
+          53.573809050537946
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 271,
+        "bezeichnung": "Rugenfeld / Osdorfer Landstraße",
+        "letzte_zaehlung": "25.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21550",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.980855970725147,
+          53.54421303774609
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 272,
+        "bezeichnung": "Baumwall W Niederbaumbrücke",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21551",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983743308916734,
+          53.54832425650103
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 273,
+        "bezeichnung": "Ludwig-Erhard-Straße W Admiralitätstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985926007869542,
+          53.55067038586009
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 274,
+        "bezeichnung": "Stadthausbrücke N Neuer Wall",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21553",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.992493240912262,
+          53.55330377420092
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 275,
+        "bezeichnung": "Jungfernstieg NW Neuer Wall",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21554",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993709110225435,
+          53.55816570758142
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 276,
+        "bezeichnung": "Neuer Jungfernstieg N Esplanade",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21555",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989421586682301,
+          53.55881250278182
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 277,
+        "bezeichnung": "Dammtordamm N Esplanade",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21556",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995425339346355,
+          53.58368009221878
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 278,
+        "bezeichnung": "St. Benedictstraße NO Heilwigstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21557",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99396569472444,
+          53.584564155372696
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 279,
+        "bezeichnung": "Heilwigstraße N Isestraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21558",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.988292483012378,
+          53.584853855012874
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 280,
+        "bezeichnung": "Oderfelder Straße N Isestraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21559",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984140203685708,
+          53.58363862098561
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 281,
+        "bezeichnung": "Eppendorfer Baum SO Hegestraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21560",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.979781849951431,
+          53.581993462476504
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 282,
+        "bezeichnung": "Lehmweg S Hegestraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21561",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969629244135257,
+          53.58653468350168
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 283,
+        "bezeichnung": "Martinistraße NO Lokstedter Steindamm",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21562",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.968101428587921,
+          53.54611476565661
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 284,
+        "bezeichnung": "St. Pauli Hafenstraße W Helgoländer Allee",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21563",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.967573009743603,
+          53.557355253929984
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 285,
+        "bezeichnung": "Feldstraße O Sternstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.935412752705972,
+          53.55030308706145
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 286,
+        "bezeichnung": "Platz der Republik W Max-Brauer-Allee",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21565",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.935063998290216,
+          53.55570816888325
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 287,
+        "bezeichnung": "Julius-Leber-Straße W Harkortstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21566",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934084945849648,
+          53.56677220286892
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 288,
+        "bezeichnung": "Plöner Straße O Schleswiger Straße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21567",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.930649745334929,
+          53.57330695258993
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 289,
+        "bezeichnung": "Holstenkamp W Große Bahnstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21568",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.933717358910274,
+          53.592582211731
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 290,
+        "bezeichnung": "Basselweg / Sportplatzring",
+        "letzte_zaehlung": "23.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21569",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.893079072444841,
+          53.573476480958355
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 291,
+        "bezeichnung": "Luruper Chaussee SO Ebertallee",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21570",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.923316333074714,
+          53.59577307531989
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 292,
+        "bezeichnung": "A7 AS HH-Stellingen",
+        "letzte_zaehlung": "20.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21571",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.899621651575217,
+          53.56509475505665
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 293,
+        "bezeichnung": "A7 AS HH-Bahrenfeld",
+        "letzte_zaehlung": "27.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.996965835453626,
+          53.59329441840277
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 294,
+        "bezeichnung": "Sierichstraße SO Hudtwalckerstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999098246596205,
+          53.57992805087703
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 295,
+        "bezeichnung": "Krugkoppel SW Leinpfad",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21574",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969136681207145,
+          53.55113121783986
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 296,
+        "bezeichnung": "Budapester Straße / Simon-von-Utrecht-Straße",
+        "letzte_zaehlung": "02.11.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21575",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.997925897132227,
+          53.55772609497145
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 297,
+        "bezeichnung": "Kennedybrücke W Ferdinandstor",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21576",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99728718321215,
+          53.55688645781895
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 298,
+        "bezeichnung": "Lombardsbrücke W Ballindamm",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21577",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995085129055854,
+          53.593633675629796
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 299,
+        "bezeichnung": "Hudtwalckerstraße SW Sierichstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21578",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96823592993272,
+          53.55002388105856
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 300,
+        "bezeichnung": "Reeperbahn W Millerntorplatz",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21579",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.882601077054408,
+          53.59319490342713
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 301,
+        "bezeichnung": "Elbgaustraße / Farnhornweg",
+        "letzte_zaehlung": "18.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21580",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.889841882663832,
+          53.5466058179432
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 302,
+        "bezeichnung": "Halbmondsweg / Elbchaussee",
+        "letzte_zaehlung": "19.02.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21581",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1479644440396,
+          53.56965701641844
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 303,
+        "bezeichnung": "Barsbütteler Straße / Holsteiner Tor",
+        "letzte_zaehlung": "20.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21582",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.005038961018748,
+          53.51195734858437
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 304,
+        "bezeichnung": "Wilhelmsburger Reichsstraße N AS HH-Wilhelmsburg",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21583",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.022291996875875,
+          53.525780055591056
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 305,
+        "bezeichnung": "A255 S AS HH-Veddel",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21584",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057437208819394,
+          53.575875958924456
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 306,
+        "bezeichnung": "Eilbektal SW Mühlenstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.016934423346491,
+          53.56472122615685
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 307,
+        "bezeichnung": "Schwanenwik S Armgartstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0545471503019,
+          53.58355110885174
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 308,
+        "bezeichnung": "Krausestraße SO Lämmersieth",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.014977098167913,
+          53.52205798671558
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 309,
+        "bezeichnung": "Wilhelmsburger Brücke N Veddeler Straße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.042198036654836,
+          53.58508857124761
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 310,
+        "bezeichnung": "Hufnerstraße N Osterbekstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.035440496492292,
+          53.574998684947694
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 311,
+        "bezeichnung": "Adolph-Schönfelder-Straße / Hamburger Straße",
+        "letzte_zaehlung": "28.04.2021"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.025927317361482,
+          53.558846525955104
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 312,
+        "bezeichnung": "Mühlendamm / Lübecker Straße",
+        "letzte_zaehlung": "20.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21591",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057905286639917,
+          53.57405604063543
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 313,
+        "bezeichnung": "Eilbeker Weg SW Brauhausstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057195068510397,
+          53.58009394194732
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 314,
+        "bezeichnung": "Krausestraße / Straßburger Straße",
+        "letzte_zaehlung": "18.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21593",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.083918298574904,
+          53.55481132996798
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 315,
+        "bezeichnung": "Sievekingsallee / Rennbahnstraße",
+        "letzte_zaehlung": "23.11.2022"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.084297068816399,
+          53.55368426384485
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 316,
+        "bezeichnung": "Rennbahnstraße / Washingtonallee",
+        "letzte_zaehlung": "25.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21595",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.152279470473754,
+          53.54284592699661
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 317,
+        "bezeichnung": "Glinder Straße / Willinghusener Weg",
+        "letzte_zaehlung": "03.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21596",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.124592098485374,
+          53.57095772628569
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 318,
+        "bezeichnung": "Jenfelder Allee / Rodigallee ",
+        "letzte_zaehlung": "20.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21597",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.033670532161569,
+          53.58478501474576
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 319,
+        "bezeichnung": "Saarlandstraße N Osterbekstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21598",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019556750502218,
+          53.582092577649256
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 320,
+        "bezeichnung": "Barmbeker Straße N Weidestraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21599",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01325433719277,
+          53.5794224658144
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 321,
+        "bezeichnung": "Hofweg S Körnerstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21600",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.010021012945057,
+          53.57748122427958
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 322,
+        "bezeichnung": "Herbert-Weichmann-Straße N Am Langenzug",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.030089991466326,
+          53.54127316570383
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 323,
+        "bezeichnung": "Amsinckstraße SO Süderstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21602",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.032848443916453,
+          53.54238199108056
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 324,
+        "bezeichnung": "Heidenkampsweg SO Bullerdeich",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21603",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03552244638781,
+          53.55239062388383
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 325,
+        "bezeichnung": "Eiffestraße O Ausschläger Weg",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21604",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.034039404744515,
+          53.55471363368941
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 326,
+        "bezeichnung": "Borgfelder Straße O Ausschläger Weg",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21605",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.033142231252842,
+          53.55754393804612
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 327,
+        "bezeichnung": "Bürgerweide O Alfredstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21606",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019471478434385,
+          53.56536481499816
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 328,
+        "bezeichnung": "Mundsburger Damm NO Armgartstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21607",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.007594691723268,
+          53.55039091103329
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 329,
+        "bezeichnung": "Altmannbrücke O Klosterwall",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21608",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.007148054178487,
+          53.55192280342811
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 330,
+        "bezeichnung": "Steintordamm O Steintorwall",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21609",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00433341285208,
+          53.55417574402677
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 331,
+        "bezeichnung": "Ernst-Merck-Straße NO Glockengießerwall",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21610",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001809067692701,
+          53.55658798702488
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 332,
+        "bezeichnung": "Ferdinandstor NO Lombardsbrücke",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21611",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.023415546471814,
+          53.53796857534088
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 333,
+        "bezeichnung": "Versmannstraße / Baakenwerder Straße",
+        "letzte_zaehlung": "17.06.2014"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21612",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.125824978096372,
+          53.58155322802048
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 334,
+        "bezeichnung": "Kuehnstraße SW Jenfelder Allee",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21613",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.103488608064824,
+          53.57592745358227
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 335,
+        "bezeichnung": "Holstenhofweg N Gustav-Adolf-Straße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21614",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.083652990442458,
+          53.54797305520898
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 336,
+        "bezeichnung": "Horner Landstraße NW Horner Rampe",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21615",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.067518766246256,
+          53.52940292099675
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 337,
+        "bezeichnung": "Ausschläger Allee / Ausschläger Elbdeich",
+        "letzte_zaehlung": "17.01.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04855266912085,
+          53.5769429531841
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 338,
+        "bezeichnung": "Friedrichsberger Straße N Amselstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.067056347345138,
+          53.553614602644494
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 339,
+        "bezeichnung": "Hammer Landstraße W Schurzallee-Nord",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.066574374093234,
+          53.559659538887615
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 340,
+        "bezeichnung": "Sievekingsallee W Horner Kreisel",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21619",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.069354733774517,
+          53.560353836191695
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 341,
+        "bezeichnung": "Hammer Straße NW Horner Kreisel",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21620",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.060982617413716,
+          53.56848256302426
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 342,
+        "bezeichnung": "Pappelallee SW Hammer Straße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.059030565839318,
+          53.576176479212506
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 343,
+        "bezeichnung": "Stormarner Straße NO Mühlenstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.056636339704962,
+          53.583128170543304
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 344,
+        "bezeichnung": "Alter Teichweg NO Lothringer Straße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.046995776839877,
+          53.583617432374865
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 345,
+        "bezeichnung": "Bramfelder Straße NO Flachsland",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21624",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.132959409531898,
+          53.5670404297415
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 346,
+        "bezeichnung": "A24 O AS HH-Jenfeld (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21625",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.076805546439713,
+          53.56184209418661
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 347,
+        "bezeichnung": "A24 NO AS HH-Horn",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21626",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.110445985801658,
+          53.59301416340506
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 348,
+        "bezeichnung": "Berner Heerweg / Friedrich-Ebert-Damm SO",
+        "letzte_zaehlung": "20.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21627",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108835121241091,
+          53.592660552765196
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 349,
+        "bezeichnung": "Tegelweg / Friedrich-Ebert-Damm",
+        "letzte_zaehlung": "20.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21628",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.109774231491464,
+          53.5933260229746
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 350,
+        "bezeichnung": "Friedrich-Ebert-Damm NO / Friedrich-Ebert-Damm SW",
+        "letzte_zaehlung": "20.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21629",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.06841099479349,
+          53.549863063152706
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 351,
+        "bezeichnung": "Bergedorfer Straße O Schurzallee-Nord",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21630",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.083218771515162,
+          53.54515442035117
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 352,
+        "bezeichnung": "Bergedorfer Straße / AS Horner Rampe",
+        "letzte_zaehlung": "16.04.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21631",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.119957619710808,
+          53.53100870887496
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 353,
+        "bezeichnung": "Bergedorfer Straße SO Rotenbrückenweg",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21632",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01199808569846,
+          53.56034050960811
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 356,
+        "bezeichnung": "An der Alster NO Schmilinskystraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21633",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.090765246768283,
+          53.50817654873194
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 357,
+        "bezeichnung": "A1 AS HH-Moorfleet",
+        "letzte_zaehlung": "10.09.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21634",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.265754799321984,
+          53.47150116442005
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 358,
+        "bezeichnung": "Rothenhauschaussee O Speckenweg (Landesgrenze)",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21635",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08956264440213,
+          53.511261799180815
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 359,
+        "bezeichnung": "Andreas-Meyer-Straße / Unterer Landweg",
+        "letzte_zaehlung": "10.09.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.067450966708549,
+          53.55549878105644
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 360,
+        "bezeichnung": "Horner Weg O Mettlerkampsweg",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21637",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.10714336429438,
+          53.54758709916447
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 361,
+        "bezeichnung": "Schiffbeker Weg / Kattensteert",
+        "letzte_zaehlung": "25.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21638",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.118628396397433,
+          53.58531523573244
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 362,
+        "bezeichnung": "Stein-Hardenberg-Straße / Tonndorfer Hauptstraße",
+        "letzte_zaehlung": "20.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21639",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16502742429484,
+          53.51519756524732
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 363,
+        "bezeichnung": "Bergedorfer Straße NW Heidhorst",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21640",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.169120166140363,
+          53.51430363581849
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 364,
+        "bezeichnung": "Reinbeker Redder NO Bergedorfer Straße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.169960001383341,
+          53.51303693164953
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 365,
+        "bezeichnung": "Bergedorfer Straße SO Reinbeker Redder",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21642",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.807244444367976,
+          53.46668708015354
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 366,
+        "bezeichnung": "Cuxhavener Straße SW Voßdrift (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21643",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.924018461709123,
+          53.47065925907792
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 367,
+        "bezeichnung": "Stader Straße W AS HH-Heimfeld",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21644",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.905708526390855,
+          53.49659793877537
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 368,
+        "bezeichnung": "Moorburger Elbdeich W Waltershofer Straße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21645",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.894831895257303,
+          53.45613036269857
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 369,
+        "bezeichnung": "Ehestorfer Heuweg S Beim Bergwerk (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21646",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.917939997675754,
+          53.44799073259256
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 370,
+        "bezeichnung": "Ehestorfer Weg N Stadtscheide (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21647",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.962308638131558,
+          53.44836969300846
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 372,
+        "bezeichnung": "Eißendorfer Mühlenweg / Bremer Straße",
+        "letzte_zaehlung": "01.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21648",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.958455160117449,
+          53.44976701647969
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 373,
+        "bezeichnung": "Friedhofstraße / Reiherhoopweg",
+        "letzte_zaehlung": "01.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21649",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.955409048662966,
+          53.44554855450469
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 374,
+        "bezeichnung": "Bremer Straße / Ernst-Bergeest-Weg",
+        "letzte_zaehlung": "01.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21650",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985284353223339,
+          53.456713093444314
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 375,
+        "bezeichnung": "Wilstorfer Straße / Moorstraße",
+        "letzte_zaehlung": "04.02.2021"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21651",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.935381914968067,
+          53.43245709584554
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 377,
+        "bezeichnung": "A7 AS HH-Marmstorf",
+        "letzte_zaehlung": "13.11.2018"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21652",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.931407809601765,
+          53.42900037256654
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 378,
+        "bezeichnung": "Bremer Straße / A261 AS HH-Marmstorf/Lürade",
+        "letzte_zaehlung": "01.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21653",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.928046445011779,
+          53.426698354846245
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 379,
+        "bezeichnung": "A261 / Zubringer Lürade",
+        "letzte_zaehlung": "01.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21654",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.996149895221667,
+          53.477585612401676
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 380,
+        "bezeichnung": "König-Georg-Deich / Brücke des 17. Juni",
+        "letzte_zaehlung": "28.02.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21655",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952045358540058,
+          53.49442205725379
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 381,
+        "bezeichnung": "Kattwykdamm SW Kattwykbrücke",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21656",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.979577442879377,
+          53.45152835164271
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 382,
+        "bezeichnung": "Hohe Straße W Harburger Umgehung",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21657",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97936121261963,
+          53.45718428199501
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 383,
+        "bezeichnung": "Bremer Straße SW Knoopstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21658",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.976045668983346,
+          53.46037558166595
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 384,
+        "bezeichnung": "Eißendorfer Straße SW Knoopstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21659",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9766876480821,
+          53.461440039629075
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 385,
+        "bezeichnung": "Schwarzenbergstraße NW Zur Seehafenbrücke",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21660",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9813556263512,
+          53.41956631575928
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 386,
+        "bezeichnung": "Hittfelder Straße S Maldfeldstraße (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21661",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.013930740891501,
+          53.430180109047114
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 387,
+        "bezeichnung": "Vogteistraße S Reller (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21662",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.025711817665275,
+          53.46250345603869
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 388,
+        "bezeichnung": "A1 AS HH-Harburg",
+        "letzte_zaehlung": "30.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21663",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.115671026339001,
+          53.48673224551947
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 389,
+        "bezeichnung": "A25 AS HH-Allermöhe",
+        "letzte_zaehlung": "06.09.2007"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21664",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1494274332367,
+          53.48100083576773
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 390,
+        "bezeichnung": "A25 AS HH-Neuallermöhe-West",
+        "letzte_zaehlung": "27.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21665",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.176593241167986,
+          53.4737428104117
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 391,
+        "bezeichnung": "A25 AS HH-Nettelnburg",
+        "letzte_zaehlung": "27.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21666",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.205446576541917,
+          53.47532498889517
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 392,
+        "bezeichnung": "A25 AS HH-Bergedorf",
+        "letzte_zaehlung": "27.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20679938319895,
+          53.49485401761529
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 393,
+        "bezeichnung": "Lohbrügger Markt NO Lohbrügger Landstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21668",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.215731738074142,
+          53.48617873349773
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 394,
+        "bezeichnung": "Bergedorfer Straße / Wentorfer Straße",
+        "letzte_zaehlung": "03.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21669",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.22205012685678,
+          53.50569292863742
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 395,
+        "bezeichnung": "Binnenfeldredder NO Max-Eichholz-Ring (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21670",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.213767565620744,
+          53.51345413582254
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 396,
+        "bezeichnung": "Reinbeker Redder O Havighorster Weg (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.26115138770066,
+          53.46919463149248
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 397,
+        "bezeichnung": "A25 O AS HH-Curslack (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21672",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.191633473680483,
+          53.60925845363122
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 398,
+        "bezeichnung": "Sieker Landstraße NO Merkurring (Landesgrenze)",
+        "letzte_zaehlung": "03.07.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21673",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.194223757520636,
+          53.60516956485144
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 399,
+        "bezeichnung": "Stapelfelder Straße NO Weg Großlohe (Landesgrenze)",
+        "letzte_zaehlung": "28.04.2015"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21674",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108909535009788,
+          53.71427122346881
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 400,
+        "bezeichnung": "Lohe N Hoopwischen (Landesgrenze)",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21675",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.928013646307837,
+          53.64324275392484
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 401,
+        "bezeichnung": "Oldesloer Straße / Wunderbrunnen",
+        "letzte_zaehlung": "13.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21676",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983659673770006,
+          53.48025096680814
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 402,
+        "bezeichnung": "Hohe-Schaar-Straße W Buschwerder Hauptdeich",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21677",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.015347180070851,
+          53.51924127076271
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 403,
+        "bezeichnung": "Veddeler Straße N Georgswerder Bogen",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21678",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0019154743879,
+          53.520190569092115
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 404,
+        "bezeichnung": "Harburger Chaussee O Schlenzigstraße",
+        "letzte_zaehlung": "15.10.2013"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21679",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991459509380483,
+          53.50067262025222
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 405,
+        "bezeichnung": "Georg-Wilhelm-Straße / Bei der Wollkämmerei",
+        "letzte_zaehlung": "19.03.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21680",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991740347256295,
+          53.482988777201555
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 406,
+        "bezeichnung": "Georg-Wilhelm-Straße / Pollhornweg",
+        "letzte_zaehlung": "28.02.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21681",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019942733000322,
+          53.47947038440853
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 407,
+        "bezeichnung": "Stillhorner Weg O Altenfelder Weg",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.997801966077539,
+          53.54411779122436
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 408,
+        "bezeichnung": "Bei St. Annen / Am Sandtorkai",
+        "letzte_zaehlung": "04.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21683",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999725513630855,
+          53.541207265589
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 409,
+        "bezeichnung": "Osakaallee / Überseeallee",
+        "letzte_zaehlung": "04.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_JAEHRLICHE_ZAEHLSTELLEN_21684",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003766728213751,
+          53.54107453332758
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 410,
+        "bezeichnung": "Shanghaiallee N Überseeallee",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    }
+  ]
+}

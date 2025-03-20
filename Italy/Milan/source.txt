@@ -1,0 +1,7 @@
+Traffic data (monthly) - September 2024 example:
+
+https://dati.comune.milano.it/dataset/ds2850_area-c-accessi-mensili-settembre-2024
+
+Ref :
+
+https://dati.comune.milano.it/dataset/ds82_infogeo_varchi_elettronici_localizzazione_/resource/87908ed9-9640-43c3-9678-cecf6cf1773f

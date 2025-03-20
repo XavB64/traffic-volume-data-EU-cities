@@ -1,0 +1,413 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974810561343956,
+          53.645576492961496
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 101,
+        "bezeichnung": "Krohnstieg / Swebenweg",
+        "letzte_zaehlung": "31.12.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009629407555602,
+          53.63582263630272
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 102,
+        "bezeichnung": "Zeppelinstraße N Terminalzufahrten (UFu)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2499",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952570520938089,
+          53.61326983334698
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 103,
+        "bezeichnung": "Kollaustraße SO Vogt-Cordes-Damm",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2500",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.854463263513416,
+          53.59821715522977
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 105,
+        "bezeichnung": "Luruper Hauptstraße O Engelbrechtweg (Landesgrenze)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95259712248666,
+          53.57146225623735
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 106,
+        "bezeichnung": "Fruchtallee NW Emilienstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2502",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.955296796530462,
+          53.56996654267948
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 107,
+        "bezeichnung": "Doormannsweg SW Fruchtallee",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2503",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.058447952311884,
+          53.590339306388074
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 108,
+        "bezeichnung": "Habichtstraße NW Meisenstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.064511449124847,
+          53.57130073092063
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 109,
+        "bezeichnung": "Wandsbeker Marktstraße SW Wandsbeker Königstraße",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.006309978442848,
+          53.54968260768108
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 110,
+        "bezeichnung": "Wallringtunnel N Deichtorplatz",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003131326850319,
+          53.547390149162595
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 111,
+        "bezeichnung": "Deichtortunnel O Meßberg",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2507",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003205713810091,
+          53.546068141445815
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 112,
+        "bezeichnung": "Oberbaumbrücke NO Poggenmühle",
+        "letzte_zaehlung": "01.01.2015"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2508",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.004754650663118,
+          53.54073364319966
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 113,
+        "bezeichnung": "Überseeallee O Shanghaiallee",
+        "letzte_zaehlung": "01.01.2015"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2509",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.918966078806536,
+          53.54151356210764
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 114,
+        "bezeichnung": "A7 SO AS HH-Othmarschen (Elbtunnel)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.922211645122673,
+          53.519339763938746
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 115,
+        "bezeichnung": "Köhlbrandbrücke O Waltershofer Damm",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2511",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981481084539936,
+          53.527524318170215
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 116,
+        "bezeichnung": "Veddeler Damm O Worthdamm",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2512",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.024634372414214,
+          53.530326442077794
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 117,
+        "bezeichnung": "Neue Elbbrücke NO Veddeler Marktplatz",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2513",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.036219575888271,
+          53.50862586223433
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 119,
+        "bezeichnung": "A1/A255 AD Hamburg-Norderelbe DP2325",
+        "letzte_zaehlung": "01.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995903905735414,
+          53.473515598754396
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 121,
+        "bezeichnung": "A253 N AS HH-Neuland (Europabrücke)",
+        "letzte_zaehlung": "01.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2515",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97509940338306,
+          53.46574980413752
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 122,
+        "bezeichnung": "Buxtehuder Straße NW Bleicherweg",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97122357530114,
+          53.51239865865886
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 258,
+        "bezeichnung": "Neuhöfer Straße O Neuhöfer Damm (Reiherstiegbrücke)",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.146275835063618,
+          53.545744192514995
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 354,
+        "bezeichnung": "A1 AS HH-Öjendorf Knoten Nordwest",
+        "letzte_zaehlung": "06.11.2018"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.147839296073302,
+          53.54272682527279
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 355,
+        "bezeichnung": "A1 AS HH-Öjendorf Knoten Südost ",
+        "letzte_zaehlung": "06.11.2018"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.91428729994507,
+          53.481934455618564
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 371,
+        "bezeichnung": "A7 AS HH-Moorburg",
+        "letzte_zaehlung": "12.04.2018"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_DAUERZAEHLSTELLEN_2520",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.927129278040299,
+          53.43573055058878
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 376,
+        "bezeichnung": "A7/A261 AD Hamburg-Südwest",
+        "letzte_zaehlung": "16.02.2015"
+      },
+      "srsName": "EPSG:4326"
+    }
+  ]
+}

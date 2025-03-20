@@ -1,0 +1,5 @@
+Traffic data: 
+https://data.montpellier3m.fr/dataset/comptage-vehicules-particuliers-de-montpellier
+
+Road section geometries:
+https://data.montpellier3m.fr/dataset/filaire-des-voies-de-montpellier-mediterranee-metropole

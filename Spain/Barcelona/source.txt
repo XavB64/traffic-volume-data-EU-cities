@@ -1,0 +1,8 @@
+Regional :
+https://datos.gob.es/es/catalogo/a09002970-intensidad-media-diaria-de-vehiculos-en-las-carreteras-imd
+
+Local but no Geographical coordinates :
+https://dades.ajuntament.barcelona.cat/dades-basiques-de-mobilitat/
+
+Historical open data on traffic but only an indicator of congestion:
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/trams

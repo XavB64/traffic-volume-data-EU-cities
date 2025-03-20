@@ -1,0 +1,5 @@
+Sensor location :
+https://podatki.gov.si/dataset/pldp-stevna-mesta
+
+Traffic data :
+https://podatki.gov.si/dataset/pldp-karte-prometnih-obremenitev

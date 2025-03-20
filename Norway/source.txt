@@ -1,0 +1,8 @@
+Documentation of the API:
+https://trafikkdata.atlas.vegvesen.no/#/om-api
+
+Download of CSV files (per sensor click selection):
+https://trafikkdata.atlas.vegvesen.no/#/eksport?datatype=ADT&from=2015-01-01&lat=59.908539888888896&lon=10.755729444444444&to=2024-12-21&trafficType=vehicle&trpids=14769V2460282%2C73840V2041694&zoom=13
+
+Details about the data:
+https://trafikkdata.atlas.vegvesen.no/#/om-trafikkdata

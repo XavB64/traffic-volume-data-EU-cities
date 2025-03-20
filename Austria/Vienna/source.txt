@@ -1,0 +1,7 @@
+Sensor location: 
+
+https://www.data.gv.at/katalog/dataset/3d66f423-def8-467e-af82-2fa98146b967#additional-info
+
+Traffic counts data :
+
+https://www.data.gv.at/katalog/dataset/4707e82a-154f-48b2-864c-89fffc6334e1

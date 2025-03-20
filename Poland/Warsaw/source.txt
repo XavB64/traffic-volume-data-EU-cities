@@ -1,0 +1,15 @@
+Access to yearly traffic counts in Warsaw:
+https://zdm.waw.pl/dzialania/badania-i-analizy/analiza-ruchu-na-drogach/
+
+More information:
+https://zdm.waw.pl/automatyczne-pomiary-ruchu/
+
+-------------------------------------
+Misc:
+Possible ADT source : https://zenodo.org/records/10987360
+Roads are from the macroscopic traffic model MTAW (Warsaw Municipality, 2016) (Model Transportowy Aglomeracji Warszawskiej in Polish). 
+It was developed based on the 2015 comprehensive travel survey in Warsaw and it is the main strategic transport model for the Greater Warsaw area, revised most recently in 2019. 
+
+Open data Krakow : 
+https://otwartedane.um.krakow.pl/zbiory-danych?categories=
+

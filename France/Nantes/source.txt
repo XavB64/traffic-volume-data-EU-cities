@@ -1,0 +1,5 @@
+Real time data :
+https://data.nantesmetropole.fr/explore/dataset/244400404_fluidite-axes-routiers-nantes-metropole/information/?sort=mf1_hd
+
+Regional main roads data :
+https://data.nantesmetropole.fr/explore/dataset/224400028_trafic-routes-departementales-de-loire-atlantique%40loireatlantique/information/?disjunctive.annee&disjunctive.route&disjunctive.commune&disjunctive.epci&sort=annee&location=11,47.26618,-1.34754&basemap=jawg.streets

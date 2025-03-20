@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Copenhagen_AADT_2020",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "raw_name": "Tuborgvej", "AADT": 17100.0, "TR_pct_AADT": 2.9, "osm_name": "Tuborgvej", "osm_type": "tertiary", "osm_lanes": 3.0, "osm_oneway": null, "osm_distance": 0.55022392451980306, "osmid": 363645224.0 }, "geometry": { "type": "Point", "coordinates": [ 12.57503118, 55.72672151 ] } },
+{ "type": "Feature", "properties": { "raw_name": "Lergravsvej", "AADT": 1200.0, "TR_pct_AADT": 1.7, "osm_name": "Lergravsvej", "osm_type": "residential", "osm_lanes": null, "osm_oneway": null, "osm_distance": 0.082076095847943481, "osmid": 237365313.0 }, "geometry": { "type": "Point", "coordinates": [ 12.62069072, 55.66333476 ] } }
+]
+}

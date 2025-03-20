@@ -1,0 +1,8 @@
+# Traffic counts for 2023 - other years are available
+https://opendata.bordeaux-metropole.fr/explore/dataset/comptage-du-trafic-2023-bordeaux-metropole/information/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImNvbXB0YWdlLWR1LXRyYWZpYy0yMDIzLWJvcmRlYXV4LW1ldHJvcG9sZSIsIm9wdGlvbnMiOnt9fSwiY2hhcnRzIjpbeyJhbGlnbk1vbnRoIjp0cnVlLCJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoiaHBtX3ZhbCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiMwMjY4QTUifV0sInhBeGlzIjoic2Vuc19jaXIiLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIn1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D
+
+# Location of sensors
+https://opendata.bordeaux-metropole.fr/explore/dataset/pc_capte_p/information/
+
+# Location and AAWT (not used):
+https://opendata.bordeaux-metropole.fr/explore/dataset/pc_capte_ponct_p/information/?disjunctive.insee&sort=-annee&location=17,44.82937,-0.59014&basemap=jawg.streets

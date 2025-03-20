@@ -1,0 +1,10 @@
+Planned linear objects of transport infrastructure, linear objects of construction modes (construction line, border), other auxiliary linear objects:
+https://data-vplanas.opendata.arcgis.com/datasets/vplanas::detali%C5%B3j%C5%B3-plan%C5%B3-pagalbiniai-linijiniai-objektai-1/about
+
+SISP has traffic ounts data but I cannot access it (data SĮSP)
+https://judu.lt/eismo-srautai/
+https://www.arcgis.com/apps/mapviewer/index.html?layers=ea2161e242154aba94db1e859770fcec
+https://vilnius.lt/lt/19118-2/si-susisiekimo-paslaugos/
+
+Same organism did this github (last commit in 2020)
+https://github.com/vilnius/traffic

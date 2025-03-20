@@ -1,0 +1,8 @@
+National Report data but not Geographical information:
+https://internet.kozut.hu/kozerdeku-adatok/orszagos-kozuti-adatbank/forgalomszamlalas/
+
+Information but no download button:
+https://bkk.hu/rolunk/forgalmi-adatok-diagramok/kozuti-meroeszkozok-adatai/
+
+Other:
+https://bkk.hu/rolunk/forgalmi-adatok-diagramok/a-kozuti-forgalom-adatai/

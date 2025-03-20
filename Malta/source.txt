@@ -1,0 +1,29 @@
+ROAD TRANSPORT - Roads and Distance Travelled:
+
+https://nso.gov.mt/wp-content/uploads/Transport-publication-2023.pdf
+
+GeoHub:
+
+https://geohub.gov.mt
+
+Guidelines : https://www.transport.gov.mt/land/roads-and-traffic-management/roads/guidelines-1361
+
+Traffic Counts
+
+This study used traffic counts: https://www.frontiersin.org/journals/sustainable-cities/articles/10.3389/frsc.2021.631280/full
+
+Transport Malta has a range of traffic data from various locations around the islands, including:
+
+    Traffic volume counts
+    Junction surveys
+    Vehicle classification surveys
+
+The data is mostly from 8 to 10 years ago and very limited ’current’ data is available.
+
+Further details or queries can be addressed to:
+
+Traffic Management and Road Safety Department
+Malta Transport Centre
+Xatt l-Ghassara ta’ l-Gheneb
+Marsa, MRS 1917
+Malta

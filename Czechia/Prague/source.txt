@@ -1,0 +1,14 @@
+Country census data - Regional level:
+Directorate of Roads and Highways (“Ředitelství silnic a dálnic“ in Czech, available only in Czech)
+https://www.rsd.cz/silnice-a-dalnice/scitani-dopravy
+Static maps of traffic intensity
+https://scitani.rsd.cz/CSD_2020/pages/results/list/default.aspx?l=St%C5%99edo%C4%8Desk%C3%BD%20kraj
+
+Total VKT for the city :
+https://www.tsk-praha.cz/static/udi-rocenka-2020-vm-cz-HTML/kapitola_03.html
+
+Traffic couts every minute over a 24hour period on 4 locations, but no coordinates:
+https://data.mendeley.com/datasets/hck3d5cj6p/1
+
+Open data Brno (possible to download GIS file of AADT)
+https://datahub.brno.cz/datasets/612362a83ce446ae8d1223959c2e865c_0/explore

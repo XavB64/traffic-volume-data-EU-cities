@@ -1,0 +1,5 @@
+https://data.public.lu/fr/datasets/pch-comptage-trafic/
+
+Additionnal information:
+https://www.datacollect.com/en/mobility-data-analysis/measuring-systems/sdr-radar-traffic-classifier/
+https://travaux.public.lu/fr/infos-trafic/comptage.html

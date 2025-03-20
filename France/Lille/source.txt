@@ -1,0 +1,5 @@
+Road segments level :
+https://data.lillemetropole.fr/catalogue/dataset/comptages-voirie
+
+Similar data with directions (more metadata) :
+https://data.lillemetropole.fr/catalogue/dataset/urn:isogeo:metadata:uuid:2417106c-f4bf-4112-bb18-618369aee399

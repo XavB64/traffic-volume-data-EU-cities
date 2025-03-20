@@ -1,0 +1,6057 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.975571801620166,
+          53.64578602432645
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1013,
+        "bezeichnung": "Krohnstieg NO Garstedter Weg T371 DP3233",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974236219947695,
+          53.64494296064761
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1017,
+        "bezeichnung": "Garstedter Weg SW Krohnstieg T372 DP3334",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.973854771998335,
+          53.64545842784916
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1018,
+        "bezeichnung": "Swebenweg W Krohnstieg T373 DP3234",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009629407555602,
+          53.63582263630272
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1022,
+        "bezeichnung": "Zeppelinstraße N Terminalzufahrten (UFu) T367 DP31",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952570520938089,
+          53.61326983334698
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1035,
+        "bezeichnung": "Kollaustraße SO Vogt-Cordes-Damm T2 DP01",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908967219409531,
+          53.617851673099814
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1041,
+        "bezeichnung": "A23 NW AD Hamburg-Nordwest T344 DP2930",
+        "letzte_zaehlung": "29.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.915905828023268,
+          53.622014536971484
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1043,
+        "bezeichnung": "A7 NO AD Hamburg-Nordwest T343 DP2830",
+        "letzte_zaehlung": "29.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.916265133077262,
+          53.611377995213424
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1045,
+        "bezeichnung": "A7 SO AD Hamburg-Nordwest T342 DP2829",
+        "letzte_zaehlung": "07.11.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.854463263513416,
+          53.59821715522977
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1054,
+        "bezeichnung": "Luruper Hauptstraße O Engelbrechtweg (Landesgrenze) T10 DP09",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95259712248666,
+          53.57146225623735
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1061,
+        "bezeichnung": "Fruchtallee NW Emilienstraße T11 DP10",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.955296796530462,
+          53.56996654267948
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1077,
+        "bezeichnung": "Doormannsweg SW Fruchtallee T9 DP08",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057372050740295,
+          53.59081624677494
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1081,
+        "bezeichnung": "Habichtstraße NW Meisenstraße T3 DP02",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.062720383949005,
+          53.57093911747754
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1097,
+        "bezeichnung": "Wandsbeker Marktstraße SW Wandsbeker Königstraße T4 DP03",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.006309978442848,
+          53.54968260768108
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1102,
+        "bezeichnung": "Wallringtunnel N Deichtorplatz T13 DP12",
+        "letzte_zaehlung": "29.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003131326850319,
+          53.547390149162595
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1114,
+        "bezeichnung": "Deichtortunnel O Meßberg T5 DP04",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003757445844327,
+          53.546423072089
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1123,
+        "bezeichnung": "Oberbaumbrücke NO Poggenmühle T381 DP38",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.004754650663118,
+          53.54073364319966
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1134,
+        "bezeichnung": "Überseeallee O Shanghaiallee T382 DP39",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37042",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.918966078806536,
+          53.54151356210764
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1145,
+        "bezeichnung": "A7 SO AS HH-Othmarschen (Elbtunnel) T15 DP14",
+        "letzte_zaehlung": "31.12.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.938826969009067,
+          53.52179028670591
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1154,
+        "bezeichnung": "Köhlbrandbrücke O Waltershofer Damm T16 DP15",
+        "letzte_zaehlung": "04.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.981481084539936,
+          53.527524318170215
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1164,
+        "bezeichnung": "Veddeler Damm O Worthdamm T14 DP13",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.026043723386458,
+          53.53183350532434
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1173,
+        "bezeichnung": "Neue Elbbrücke NO Veddeler Marktplatz T6 DP05",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.021443232991006,
+          53.51746344329173
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1188,
+        "bezeichnung": "B75 W AS HH-Elbinsel T338 DP 2627",
+        "letzte_zaehlung": "19.03.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.038442886163791,
+          53.4996444401488
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1196,
+        "bezeichnung": "A1 S AD Hamburg-Norderelbe T337 DP2325 ",
+        "letzte_zaehlung": "31.12.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.086826698514612,
+          53.507475313497004
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1204,
+        "bezeichnung": "A1 O AD HH-Südost T335 DP1719",
+        "letzte_zaehlung": "10.09.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.087053650646792,
+          53.50161233258048
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1205,
+        "bezeichnung": "A25 SO AD Hamburg-Südost T336 DP1819",
+        "letzte_zaehlung": "27.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.059368448419255,
+          53.50931287897585
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1208,
+        "bezeichnung": "A1 W AD Hamburg-Südost T334 DP1718",
+        "letzte_zaehlung": "31.12.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995903905735414,
+          53.473515598754396
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1212,
+        "bezeichnung": "Europabrücke N AS HH-Neuland (B75) T17 DP16",
+        "letzte_zaehlung": "24.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97509940338306,
+          53.46574980413752
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 1221,
+        "bezeichnung": "Buxtehuder Straße NW Bleicherweg T8 DP07",
+        "letzte_zaehlung": "30.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991159756256096,
+          53.66603567678891
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2018,
+        "bezeichnung": "Tarpen W Essener Straße (Landesgrenze) T306",
+        "letzte_zaehlung": "04.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991413302752948,
+          53.59878784213086
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2028,
+        "bezeichnung": "Meenkwiese W Meenkbrücke T289",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90014404663305,
+          53.63588698381894
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2031,
+        "bezeichnung": "Pinneberger Straße NW Siloahweg (Landesgrenze) T150",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907195805130835,
+          53.65086300611613
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2042,
+        "bezeichnung": "Holsteiner Chaussee N Schleswiger Damm (Landesgrenze) T151",
+        "letzte_zaehlung": "06.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908420246303127,
+          53.64518180008836
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2056,
+        "bezeichnung": "Holsteiner Chaussee S Marek-James-Straße T153",
+        "letzte_zaehlung": "22.05.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.911658815797887,
+          53.645939207336106
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2065,
+        "bezeichnung": "Schleswiger Damm SO Marek-James-Straße T152",
+        "letzte_zaehlung": "22.05.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907301115597448,
+          53.61700138753423
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2076,
+        "bezeichnung": "Holsteiner Chaussee S A23 AS HH-Eidelstedt T27",
+        "letzte_zaehlung": "18.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.908289836795653,
+          53.620805150306076
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2082,
+        "bezeichnung": "Holsteiner Chaussee N A23 AS HH-Eidelstedt T121",
+        "letzte_zaehlung": "26.02.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.901833876651876,
+          53.62151015236268
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2091,
+        "bezeichnung": "A23 NW AS HH-Eidelstedt T26",
+        "letzte_zaehlung": "20.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37062",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.957456876823251,
+          53.61209824315673
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2104,
+        "bezeichnung": "Papenreye O Kollaustraße T345",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.927292647159774,
+          53.63175164944612
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2111,
+        "bezeichnung": "Schleswiger Damm NW Wendlohstraße T154",
+        "letzte_zaehlung": "13.05.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93166229170127,
+          53.62965028986189
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2113,
+        "bezeichnung": "Wendlohstraße NO Frohmestraße T155",
+        "letzte_zaehlung": "13.05.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.931928178776854,
+          53.62867742663588
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2115,
+        "bezeichnung": "Frohmestraße SO Wendlohstraße T156",
+        "letzte_zaehlung": "26.09.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37066",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.929823713860962,
+          53.629251099902106
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2118,
+        "bezeichnung": "Frohmestraße W Schleswiger Damm T157",
+        "letzte_zaehlung": "13.05.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986361153263132,
+          53.60376450666629
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2121,
+        "bezeichnung": "Borsteler Chaussee NW Alsterkrugchaussee T112",
+        "letzte_zaehlung": "04.05.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987942895688244,
+          53.60419191496088
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2123,
+        "bezeichnung": "Alsterkrugchaussee NO Deelböge T113",
+        "letzte_zaehlung": "04.05.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989019497665618,
+          53.60305041916401
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2125,
+        "bezeichnung": "Deelböge SO Alsterkrugchaussee T114",
+        "letzte_zaehlung": "18.04.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985830493558884,
+          53.60239357655021
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2127,
+        "bezeichnung": "Rosenbrook SW Deelböge T115",
+        "letzte_zaehlung": "04.05.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.963882678457209,
+          53.603534188547115
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2134,
+        "bezeichnung": "Nedderfeld O Kollaustraße T162",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.885210056722311,
+          53.62186796241924
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2141,
+        "bezeichnung": "Pinneberger Chaussee NW Wildacker (Landesgrenze) T149",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37073",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986518293523956,
+          53.65199750179305
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2152,
+        "bezeichnung": "Norderstedt - Niendorfer Straße N Krohnstieg (Landesgrenze) T272",
+        "letzte_zaehlung": "04.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.949718582682245,
+          53.650533254211446
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2163,
+        "bezeichnung": "Oldesloer Straße NO Swebenweg (Landesgrenze) T387",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.930730336422329,
+          53.65257900490533
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2172,
+        "bezeichnung": "A7 N AS HH-Schnelsen-Nord (Landesgrenze) T323",
+        "letzte_zaehlung": "13.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.932467185402677,
+          53.64626434280074
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2173,
+        "bezeichnung": "Oldesloer Straße NO A7 AS HH-Schnelsen-Nord T106",
+        "letzte_zaehlung": "26.02.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.926910090975467,
+          53.63982656800006
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2176,
+        "bezeichnung": "A7 S AS HH-Schnelsen-Nord T104",
+        "letzte_zaehlung": "26.02.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.928436420534288,
+          53.64389565871031
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2177,
+        "bezeichnung": "Oldesloer Straße SW A7 AS HH-Schnelsen-Nord T105",
+        "letzte_zaehlung": "26.02.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.922362635427989,
+          53.63522346591866
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2181,
+        "bezeichnung": "Schleswiger Damm NW AS HH-Schnelsen T58",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37080",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.963254683893204,
+          53.600509988598546
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2192,
+        "bezeichnung": "Kollaustraße N Osterfeldstraße T108",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.965375596740612,
+          53.599414229187374
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2194,
+        "bezeichnung": "Osterfeldstraße O Kollaustraße T109",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37082",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.965249141339871,
+          53.59850737059327
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2196,
+        "bezeichnung": "Lokstedter Steindamm S Osterfeldstraße T110",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.962738505160923,
+          53.59974109769851
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2198,
+        "bezeichnung": "Vogt-Wells-Straße W Lokstedter Steindamm T111",
+        "letzte_zaehlung": "29.09.2011"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.020263404759778,
+          53.639013418076594
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2206,
+        "bezeichnung": "Ohkamp S Flughafenstraße T309",
+        "letzte_zaehlung": "28.03.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.026181371378431,
+          53.62982112774152
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2212,
+        "bezeichnung": "Hummelsbütteler Landstraße N Brombeerweg T318",
+        "letzte_zaehlung": "28.03.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.140041922323384,
+          53.62991444736491
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2221,
+        "bezeichnung": "Karlshöher Weg NW Berner Heerweg T378",
+        "letzte_zaehlung": "26.09.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.141543052690542,
+          53.630061942464536
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2223,
+        "bezeichnung": "Berner Heerweg NO Berner Brücke T379",
+        "letzte_zaehlung": "26.09.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.141839272017487,
+          53.62871076637992
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2225,
+        "bezeichnung": "Berner Brücke SO Berner Heerweg T380",
+        "letzte_zaehlung": "26.09.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.140214576779313,
+          53.62846557327737
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2227,
+        "bezeichnung": "Berner Heerweg SW Berner Allee T303",
+        "letzte_zaehlung": "26.09.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.138762860038636,
+          53.62902772283698
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2228,
+        "bezeichnung": "Berner Allee W Berner Heerweg T260",
+        "letzte_zaehlung": "26.09.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.047046357016516,
+          53.608273732120736
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2234,
+        "bezeichnung": "Steilshooper Allee O Eichenlohweg T299",
+        "letzte_zaehlung": "21.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001041831338776,
+          53.61167868696378
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2241,
+        "bezeichnung": "Alsterdorfer Damm NW Rathenaustraße T288",
+        "letzte_zaehlung": "28.03.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009879602041314,
+          53.61209882598287
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2251,
+        "bezeichnung": "Hindenburgstraße NW Rathenaustraße T287",
+        "letzte_zaehlung": "28.03.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.018057182990864,
+          53.615229595374736
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2261,
+        "bezeichnung": "Sengelmannstraße NW Rathenaustraße T286",
+        "letzte_zaehlung": "28.03.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031249082703225,
+          53.681346714486686
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2276,
+        "bezeichnung": "Tangstedter Landstraße S Am Ochsenzoll (Landesgrenze) T270",
+        "letzte_zaehlung": "04.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04651278044694,
+          53.67957834318167
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2282,
+        "bezeichnung": "Glashütter Landstraße N Glashütter Stieg (Landesgrenze) T268",
+        "letzte_zaehlung": "04.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37097",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.055845766842275,
+          53.67439075460585
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2291,
+        "bezeichnung": "Harksheider Straße NW Kupferteichweg (Landesgrenze) T267",
+        "letzte_zaehlung": "01.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.156399277225928,
+          53.61478181221378
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2302,
+        "bezeichnung": "Meiendorfer Straße N Oldenfelder Stieg T253",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.156779203087861,
+          53.61430172134594
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2304,
+        "bezeichnung": "Oldenfelder Stieg O Bargteheider Straße T254",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.155729767004784,
+          53.61406915657034
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2306,
+        "bezeichnung": "Bargteheider Straße S Oldenfelder Stieg T255",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.155499982243164,
+          53.61451183835982
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2308,
+        "bezeichnung": "Berner Straße W Meiendorfer Straße T256",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.160631519746522,
+          53.65553298572662
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2316,
+        "bezeichnung": "Halenreie S Buckhorn T261",
+        "letzte_zaehlung": "06.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.034549690137345,
+          53.62819401154261
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2323,
+        "bezeichnung": "Wellingsbütteler Landstraße NO Fuhlsbüttler Straße T282",
+        "letzte_zaehlung": "31.01.2013"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03189531470183,
+          53.62538541717773
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2326,
+        "bezeichnung": "Fuhlsbüttler Straße S Wellingsbütteler Landstraße T283",
+        "letzte_zaehlung": "04.11.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.030413324493198,
+          53.6260004416536
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2328,
+        "bezeichnung": "Wellingsbütteler Landstraße W Fuhlsbüttler Straße T284",
+        "letzte_zaehlung": "04.11.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.039332031000432,
+          53.6061926215671
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2336,
+        "bezeichnung": "Fuhlsbüttler Straße S Meister-Bertram-Straße T281",
+        "letzte_zaehlung": "15.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031483227992881,
+          53.65002753040517
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2348,
+        "bezeichnung": "Poppenbütteler Weg W Lademannbogen T273",
+        "letzte_zaehlung": "04.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.000680963909362,
+          53.68077006100152
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2356,
+        "bezeichnung": "Langenhorner Chaussee S Am Ochsenzoll (Landesgrenze) T271",
+        "letzte_zaehlung": "06.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.090899804210693,
+          53.67236867433551
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2362,
+        "bezeichnung": "Lemsahler Landstraße N An der Alsterschleife (Landesgrenze) T263",
+        "letzte_zaehlung": "01.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.087242739210074,
+          53.656149994018975
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2378,
+        "bezeichnung": "Saseler Damm W Poppenbüttler Landstraße T262",
+        "letzte_zaehlung": "06.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37111",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.069256745147682,
+          53.6019558492295
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2383,
+        "bezeichnung": "Bramfelder Chaussee NO Werner-Otto-Straße T277",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.069328232567258,
+          53.60059787437224
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2385,
+        "bezeichnung": "Werner-Otto-Straße SO Bramfelder Chaussee T278",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37113",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.06822529537349,
+          53.600607725642355
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2387,
+        "bezeichnung": "Bramfelder Chaussee SW Werner-Otto-Straße T279",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.116748634022324,
+          53.60798515011455
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2392,
+        "bezeichnung": "August-Krogmann-Straße N Am Luisenhof T257",
+        "letzte_zaehlung": "18.11.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.11737634773628,
+          53.60714331230189
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2395,
+        "bezeichnung": "August-Krogmann-Straße SO Am Luisenhof T258",
+        "letzte_zaehlung": "06.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.115872373082972,
+          53.60742701649581
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2398,
+        "bezeichnung": "Am Luisenhof W August-Krogmann-Straße T259",
+        "letzte_zaehlung": "18.11.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.016159983834566,
+          53.63505725599189
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2402,
+        "bezeichnung": "Langenhorner Chaussee N Erdkampsweg T126",
+        "letzte_zaehlung": "15.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37118",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01687132500703,
+          53.634448959978926
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2404,
+        "bezeichnung": "Erdkampsweg O Langenhorner Chaussee T43",
+        "letzte_zaehlung": "15.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.015911356235991,
+          53.63415148874243
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2406,
+        "bezeichnung": "Alsterkrugchaussee S Erdkampsweg T42",
+        "letzte_zaehlung": "15.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37120",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08102748091603,
+          53.619630286066574
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2413,
+        "bezeichnung": "Bramfelder Chaussee NO Berner Chaussee T274",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08156331881337,
+          53.618708570550005
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2414,
+        "bezeichnung": "Berner Chaussee O Bramfelder Chaussee T275",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.079607274320058,
+          53.618483529197185
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2417,
+        "bezeichnung": "Bramfelder Chaussee SW Berner Chaussee T276",
+        "letzte_zaehlung": "06.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37123",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.034356700342299,
+          53.601130007818014
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2424,
+        "bezeichnung": "Jahnbrücke O Saarlandstraße T93",
+        "letzte_zaehlung": "12.04.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37124",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031381093954428,
+          53.59871069775761
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2426,
+        "bezeichnung": "Saarlandstraße S Jahnbrücke T91",
+        "letzte_zaehlung": "12.04.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.027396319602797,
+          53.60014725373732
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2428,
+        "bezeichnung": "Jahnring W Saarlandstraße T92",
+        "letzte_zaehlung": "09.06.2009"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14298640610247,
+          53.67673688188096
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2433,
+        "bezeichnung": "Bergstedter Chaussee NO Volksdorfer Grenzweg (Landesgrenze) T347",
+        "letzte_zaehlung": "30.03.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37127",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.10726179254046,
+          53.654393469504555
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2442,
+        "bezeichnung": "Saseler Chaussee N Stadtbahnstraße T45",
+        "letzte_zaehlung": "28.04.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37128",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108076143469235,
+          53.65371176520459
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2444,
+        "bezeichnung": "Stadtbahnstraße O Saseler Chaussee T98",
+        "letzte_zaehlung": "28.04.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37129",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.106589004376383,
+          53.65297044865553
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2446,
+        "bezeichnung": "Saseler Chaussee S Stadtbahnstraße T99",
+        "letzte_zaehlung": "28.04.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.105739214598186,
+          53.65345471357922
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2448,
+        "bezeichnung": "Stadtbahnstraße W Saseler Chaussee T46",
+        "letzte_zaehlung": "28.04.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.026729201470843,
+          53.62747032588329
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2452,
+        "bezeichnung": "Brombeerweg N Ratsmühlendamm T285",
+        "letzte_zaehlung": "28.03.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009917957088033,
+          53.649168674446074
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2462,
+        "bezeichnung": "Langenhorner Chaussee N Krohnstieg T102",
+        "letzte_zaehlung": "15.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.011061540455232,
+          53.64890733431109
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2464,
+        "bezeichnung": "Krohnstieg O Langenhorner Chaussee T100",
+        "letzte_zaehlung": "15.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.010741820402327,
+          53.64819092494657
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2466,
+        "bezeichnung": "Langenhorner Chaussee S Krohnstieg T103",
+        "letzte_zaehlung": "15.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37135",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.009476816129581,
+          53.648435308255245
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2468,
+        "bezeichnung": "Krohnstieg W Langenhorner Chaussee T101",
+        "letzte_zaehlung": "15.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37136",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.192484417391315,
+          53.63784417928683
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2477,
+        "bezeichnung": "Meiendorfer Straße NO Nornenweg (Landesgrenze) T28",
+        "letzte_zaehlung": "30.03.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37137",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.193651311296545,
+          53.643279905713634
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2478,
+        "bezeichnung": "Eulenkrugstraße O Im Meienthun (Landesgrenze) T96",
+        "letzte_zaehlung": "03.02.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.167815023915413,
+          53.606095399634306
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2483,
+        "bezeichnung": "Sieker Landstraße NO Stapelfelder Straße T250",
+        "letzte_zaehlung": "14.11.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.167803370685709,
+          53.60567302740971
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2484,
+        "bezeichnung": "Stapelfelder Straße O Sieker Landstraße T251",
+        "letzte_zaehlung": "24.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.166612650284046,
+          53.60579251058855
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2488,
+        "bezeichnung": "Rahlstedter Straße W Sieker Landstraße T252",
+        "letzte_zaehlung": "24.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37141",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.737926025025224,
+          53.58511392143008
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2498,
+        "bezeichnung": "Wedeler Landstraße W Schulauer Moorweg (Landesgrenze) T312",
+        "letzte_zaehlung": "13.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37142",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801270038315762,
+          53.5141889066122
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2504,
+        "bezeichnung": "Nincoper Straße O Nincoper Ort T298",
+        "letzte_zaehlung": "20.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.808738483368339,
+          53.529410760145254
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2518,
+        "bezeichnung": "Neuenfelder Hauptdeich W Am Rosengarten T297",
+        "letzte_zaehlung": "20.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.822368780961323,
+          53.58427566856868
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2522,
+        "bezeichnung": "Schenefelder Landstraße N Holtbarg (Landesgrenze) T138",
+        "letzte_zaehlung": "25.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37145",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.735546272691861,
+          53.56985665070164
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2538,
+        "bezeichnung": "Schulauer Weg W Tinsdaler Heideweg (Landesgrenze) T137",
+        "letzte_zaehlung": "25.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.822489117082739,
+          53.560903872321745
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2541,
+        "bezeichnung": "Elbchaussee NW Schenefelder Landstraße T64",
+        "letzte_zaehlung": "25.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.823853313653283,
+          53.561182127253616
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2552,
+        "bezeichnung": "Schenefelder Landstraße N Elbchaussee T65",
+        "letzte_zaehlung": "25.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37148",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.933592458842107,
+          53.54783636093619
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2568,
+        "bezeichnung": "Ottenser Marktplatz W Museumstraße T119",
+        "letzte_zaehlung": "13.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.933562394552013,
+          53.54647027519
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2578,
+        "bezeichnung": "Klopstockstraße W Kaistraße T33",
+        "letzte_zaehlung": "13.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97122357530114,
+          53.51239865865886
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2584,
+        "bezeichnung": "Neuhöfer Straße O Neuhöfer Damm (Reiherstiegbrücke) T332",
+        "letzte_zaehlung": "31.12.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.976414349811936,
+          53.56302735107053
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2592,
+        "bezeichnung": "Rentzelstraße N  St. Petersburger Straße T313",
+        "letzte_zaehlung": "14.02.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974635598923891,
+          53.582853490235365
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2607,
+        "bezeichnung": "Eppendorfer Weg SW Falkenried T310",
+        "letzte_zaehlung": "29.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.891206859380155,
+          53.57278032167911
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2616,
+        "bezeichnung": "Ebertallee S Luruper Chaussee T305",
+        "letzte_zaehlung": "25.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.849630879017433,
+          53.59686728664953
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2621,
+        "bezeichnung": "Am Barls NW Rapsweg (Landesgrenze) T139",
+        "letzte_zaehlung": "23.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.932548936885494,
+          53.56353019740687
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2634,
+        "bezeichnung": "Stresemannstraße O Kohlentwiete T311",
+        "letzte_zaehlung": "06.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.962622656088742,
+          53.558743541888745
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2641,
+        "bezeichnung": "Stresemannstraße NW Neuer Pferdemarkt T35",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.964069870021252,
+          53.558650985049574
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2642,
+        "bezeichnung": "Neuer Pferdemarkt N Stresemannstraße T36",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.964043920151196,
+          53.557509596621415
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2646,
+        "bezeichnung": "Neuer Pferdemarkt S Stresemannstraße T129",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.894288369975193,
+          53.51625294052296
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2658,
+        "bezeichnung": "Finkenwerder Straße W Dradenauer Deichweg T296",
+        "letzte_zaehlung": "28.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.944138179697086,
+          53.56933602045198
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2662,
+        "bezeichnung": "Kieler Straße N Langenfelder Straße T172",
+        "letzte_zaehlung": "08.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37161",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.933559174410822,
+          53.58403501198537
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2672,
+        "bezeichnung": "Kieler Straße N Warnstedtstraße T164",
+        "letzte_zaehlung": "03.02.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37162",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934579303894322,
+          53.58302927992593
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2675,
+        "bezeichnung": "Langenfelder Damm SO Kieler Straße T165",
+        "letzte_zaehlung": "03.02.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37163",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.93386292135692,
+          53.582738240270416
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2676,
+        "bezeichnung": "Kieler Straße S Langenfelder Damm T166",
+        "letzte_zaehlung": "07.09.2010"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37164",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9488266035298,
+          53.55953693921466
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2682,
+        "bezeichnung": "Holstenstraße N Max-Brauer-Allee T173",
+        "letzte_zaehlung": "29.09.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.950399857366492,
+          53.55900308978617
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2683,
+        "bezeichnung": "Max-Brauer-Allee NO Holstenstraße T174",
+        "letzte_zaehlung": "10.02.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94963627682968,
+          53.55793947019484
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2686,
+        "bezeichnung": "Holstenstraße S Max-Brauer-Allee T175",
+        "letzte_zaehlung": "10.02.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.948559153087539,
+          53.55837948673665
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2687,
+        "bezeichnung": "Max-Brauer-Allee SW Holstenstraße T176",
+        "letzte_zaehlung": "08.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969278710027602,
+          53.567912453951486
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2691,
+        "bezeichnung": "Schäferkampsallee NW Beim Schlump T182",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970723339777823,
+          53.56769399349839
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2693,
+        "bezeichnung": "Beim Schlump NO Schäferkampsallee T179",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.971087187382036,
+          53.56709776961841
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2695,
+        "bezeichnung": "Schröderstiftstraße SO Beim Schlump T180",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37171",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969080280291939,
+          53.56715899009095
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2697,
+        "bezeichnung": "Kleiner Schäferkamp SW Schäferkampsallee T181",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37172",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969222943552595,
+          53.584623335432724
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2702,
+        "bezeichnung": "Hoheluftchaussee N Gärtnerstraße T135",
+        "letzte_zaehlung": "22.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37173",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970392781106803,
+          53.584254295777065
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2703,
+        "bezeichnung": "Breitenfelder Straße NO Hoheluftchaussee T39",
+        "letzte_zaehlung": "22.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37174",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.970150177010199,
+          53.583555127187026
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2705,
+        "bezeichnung": "Hoheluftchaussee SO Gärtnerstraße T40",
+        "letzte_zaehlung": "08.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96873932110199,
+          53.583953083145836
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2707,
+        "bezeichnung": "Gärtnerstraße SW Hoheluftchaussee T116",
+        "letzte_zaehlung": "22.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.837901777095967,
+          53.57454984108945
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2713,
+        "bezeichnung": "Rugenfeld NO Osdorfer Landstraße T25",
+        "letzte_zaehlung": "26.02.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.838456567850281,
+          53.57358414782713
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2714,
+        "bezeichnung": "Osdorfer Landstraße O Rugenfeld T66",
+        "letzte_zaehlung": "26.02.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.836575283284693,
+          53.57314787644849
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2717,
+        "bezeichnung": "Isfeldstraße SW Osdorfer Landstraße T124",
+        "letzte_zaehlung": "26.02.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.835613101336495,
+          53.574134384933174
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2718,
+        "bezeichnung": "Osdorfer Landstraße W Rugenfeld T24",
+        "letzte_zaehlung": "02.11.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.980855970725147,
+          53.54421303774609
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2728,
+        "bezeichnung": "Baumwall W Niederbaumbrücke T198",
+        "letzte_zaehlung": "22.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983743308916734,
+          53.54832425650103
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2738,
+        "bezeichnung": "Ludwig-Erhard-Straße W Admiralitätstraße T197",
+        "letzte_zaehlung": "17.01.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.985926007869542,
+          53.55067038586009
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2742,
+        "bezeichnung": "Stadthausbrücke N Neuer Wall T196",
+        "letzte_zaehlung": "22.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.992493240912262,
+          53.55330377420092
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2751,
+        "bezeichnung": "Jungfernstieg NW Neuer Wall T195",
+        "letzte_zaehlung": "22.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993709110225435,
+          53.55816570758142
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2762,
+        "bezeichnung": "Neuer Jungfernstieg N Esplanade T190",
+        "letzte_zaehlung": "15.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989421586682301,
+          53.55881250278182
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2772,
+        "bezeichnung": "Dammtordamm N Esplanade T189",
+        "letzte_zaehlung": "17.08.2021"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37186",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995425339346355,
+          53.58368009221878
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2783,
+        "bezeichnung": "St. Benedictstraße NO Heilwigstraße T188",
+        "letzte_zaehlung": "10.11.2022"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37187",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99396569472444,
+          53.584564155372696
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2792,
+        "bezeichnung": "Heilwigstraße N Isestraße T187",
+        "letzte_zaehlung": "10.11.2022"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.988292483012378,
+          53.584853855012874
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2802,
+        "bezeichnung": "Oderfelder Straße N Isestraße T186",
+        "letzte_zaehlung": "11.04.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984140203685708,
+          53.58363862098561
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2815,
+        "bezeichnung": "Eppendorfer Baum SO Hegestraße T185",
+        "letzte_zaehlung": "29.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.979781849951431,
+          53.581993462476504
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2826,
+        "bezeichnung": "Lehmweg S Hegestraße T184",
+        "letzte_zaehlung": "29.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969629244135257,
+          53.58653468350168
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2833,
+        "bezeichnung": "Martinistraße NO Lokstedter Steindamm T183",
+        "letzte_zaehlung": "29.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.968101428587921,
+          53.54611476565661
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2848,
+        "bezeichnung": "St. Pauli Hafenstraße W Helgoländer Allee T178",
+        "letzte_zaehlung": "11.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.967573009743603,
+          53.557355253929984
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2854,
+        "bezeichnung": "Feldstraße O Sternstraße T177",
+        "letzte_zaehlung": "27.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.935412752705972,
+          53.55030308706145
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2868,
+        "bezeichnung": "Platz der Republik W Max-Brauer-Allee T171",
+        "letzte_zaehlung": "13.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37195",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.935063998290216,
+          53.55570816888325
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2878,
+        "bezeichnung": "Julius-Leber-Straße W Harkortstraße T170",
+        "letzte_zaehlung": "13.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.934084945849648,
+          53.56677220286892
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2884,
+        "bezeichnung": "Plöner Straße O Schleswiger Straße T169",
+        "letzte_zaehlung": "13.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.930649745334929,
+          53.57330695258993
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2898,
+        "bezeichnung": "Holstenkamp W Große Bahnstraße T168",
+        "letzte_zaehlung": "22.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37198",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.932808989741599,
+          53.5924994080184
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2908,
+        "bezeichnung": "Sportplatzring O Kieler Straße T163",
+        "letzte_zaehlung": "06.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37199",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.893079072444841,
+          53.573476480958355
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2915,
+        "bezeichnung": "Luruper Chaussee SO Ebertallee T144",
+        "letzte_zaehlung": "25.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37200",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.922127094551376,
+          53.59667214412855
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2921,
+        "bezeichnung": "Kieler Straße NW A7 AS HH-Stellingen T38",
+        "letzte_zaehlung": "28.02.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.924774901935589,
+          53.594755057762455
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2925,
+        "bezeichnung": "Kieler Straße SO A7 AS HH-Stellingen T118",
+        "letzte_zaehlung": "06.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.920652744925649,
+          53.592800304892016
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2927,
+        "bezeichnung": "A7 SW AS HH-Stellingen T117",
+        "letzte_zaehlung": "28.02.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.901080288352665,
+          53.568364723520695
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2932,
+        "bezeichnung": "A7 N AS HH-Bahrenfeld T69",
+        "letzte_zaehlung": "31.12.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37204",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.901111844167355,
+          53.56487679353822
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2934,
+        "bezeichnung": "Bahrenfelder Marktplatz O AS HH-Bahrenfeld T68",
+        "letzte_zaehlung": "13.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.89871373572459,
+          53.562153220623486
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2936,
+        "bezeichnung": "A7 S AS HH-Bahrenfeld T70",
+        "letzte_zaehlung": "13.09.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.898073340523204,
+          53.565421001077155
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2938,
+        "bezeichnung": "Osdorfer Weg W AS HH-Bahrenfeld T67",
+        "letzte_zaehlung": "13.09.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.996965835453626,
+          53.59329441840277
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2945,
+        "bezeichnung": "Sierichstraße SO Hudtwalckerstraße T63",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999098246596205,
+          53.57992805087703
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2957,
+        "bezeichnung": "Krugkoppel SW Leinpfad T62",
+        "letzte_zaehlung": "29.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37209",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.968135802965504,
+          53.55158877263528
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2961,
+        "bezeichnung": "Budapester Straße NW Simon-von-Utrecht-Straße T61",
+        "letzte_zaehlung": "26.08.2012"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37210",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969450728247022,
+          53.551002826989
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2965,
+        "bezeichnung": "Budapester Straße SO Simon-von-Utrecht-Straße T136",
+        "letzte_zaehlung": "06.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.967957692538361,
+          53.551059865043584
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2968,
+        "bezeichnung": "Simon-von-Utrecht-Straße W Budapester Straße T134",
+        "letzte_zaehlung": "22.06.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37212",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.997925897132227,
+          53.55772609497145
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2978,
+        "bezeichnung": "Kennedybrücke W Ferdinandstor T54",
+        "letzte_zaehlung": "23.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99728718321215,
+          53.55688645781895
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2988,
+        "bezeichnung": "Lombardsbrücke W Ballindamm T53",
+        "letzte_zaehlung": "23.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37214",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.995085129055854,
+          53.593633675629796
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 2997,
+        "bezeichnung": "Hudtwalckerstraße SW Sierichstraße T41",
+        "letzte_zaehlung": "27.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96823592993272,
+          53.55002388105856
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3008,
+        "bezeichnung": "Reeperbahn W Millerntorplatz T34",
+        "letzte_zaehlung": "22.06.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.883189947188898,
+          53.593900677056695
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3013,
+        "bezeichnung": "Elbgaustraße NO Farnhornweg T140",
+        "letzte_zaehlung": "11.01.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.883673668302574,
+          53.59318698687525
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3014,
+        "bezeichnung": "Farnhornweg O Elbgaustraße T141",
+        "letzte_zaehlung": "11.01.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37218",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.881985382383027,
+          53.592651123835886
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3017,
+        "bezeichnung": "Elbgaustraße SW Farnhornweg T142",
+        "letzte_zaehlung": "16.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37219",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.889885071988965,
+          53.547225731965625
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3022,
+        "bezeichnung": "Halbmondsweg N Elbchaussee T145",
+        "letzte_zaehlung": "25.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37220",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.890839163273512,
+          53.5466613158726
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3024,
+        "bezeichnung": "Elbchaussee O Halbmondsweg T146",
+        "letzte_zaehlung": "25.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.888873090284326,
+          53.54646919970374
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3028,
+        "bezeichnung": "Elbchaussee W Halbmondsweg T148",
+        "letzte_zaehlung": "25.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.145622139082574,
+          53.570155894653965
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3038,
+        "bezeichnung": "Barsbütteler Straße W Holsteiner Tor (Landesgrenze) T346",
+        "letzte_zaehlung": "22.03.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.005038961018748,
+          53.51195734858437
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3042,
+        "bezeichnung": "Wilhelmsburger Reichsstraße N AS HH-Wilhelmsburg T340",
+        "letzte_zaehlung": "13.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37224",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.024761405534774,
+          53.521839687568246
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3056,
+        "bezeichnung": "A255 S AS HH-Veddel T339",
+        "letzte_zaehlung": "18.06.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37225",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057437208819394,
+          53.575875958924456
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3067,
+        "bezeichnung": "Eilbektal SW Mühlenstraße T218",
+        "letzte_zaehlung": "18.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37226",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.016934423346491,
+          53.56472122615685
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3076,
+        "bezeichnung": "Schwanenwik S Armgartstraße T307",
+        "letzte_zaehlung": "20.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0545471503019,
+          53.58355110885174
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3085,
+        "bezeichnung": "Krausestraße SO Lämmersieth T304",
+        "letzte_zaehlung": "18.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37228",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.014977098167913,
+          53.52205798671558
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3092,
+        "bezeichnung": "Wilhelmsburger Brücke N Veddeler Straße T290",
+        "letzte_zaehlung": "18.06.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37229",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.042198036654836,
+          53.58508857124761
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3102,
+        "bezeichnung": "Hufnerstraße N Osterbekstraße T209",
+        "letzte_zaehlung": "24.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37230",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03423956879942,
+          53.5759169615042
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3111,
+        "bezeichnung": "Adolph-Schönfelder-Straße NW Hamburger Straße T90",
+        "letzte_zaehlung": "30.03.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.036177151376522,
+          53.57547771195765
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3113,
+        "bezeichnung": "Hamburger Straße NO Wagnerstraße T88",
+        "letzte_zaehlung": "30.03.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.036306392496545,
+          53.574586682356305
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3115,
+        "bezeichnung": "Wagnerstraße SO Hamburger Straße T89",
+        "letzte_zaehlung": "30.03.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.034261583225177,
+          53.57434369812587
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3117,
+        "bezeichnung": "Hamburger Straße SW Wagnerstraße T87",
+        "letzte_zaehlung": "30.03.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37234",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.025745661123532,
+          53.55945034733497
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3122,
+        "bezeichnung": "Mühlendamm N Lübecker Straße T86",
+        "letzte_zaehlung": "10.05.2011"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37235",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02690378402644,
+          53.559269618552854
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3123,
+        "bezeichnung": "Lübecker Straße NO Mühlendamm T85",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37236",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.026006573563842,
+          53.55837841778079
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3126,
+        "bezeichnung": "Steinhauerdamm S Lübecker Straße T132",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37237",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.025108544615604,
+          53.55870073314839
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3128,
+        "bezeichnung": "Lübecker Straße W Mühlendamm T133",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057905286639917,
+          53.57405604063543
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3137,
+        "bezeichnung": "Eilbeker Weg SW Brauhausstraße T219",
+        "letzte_zaehlung": "18.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37239",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.056935348454015,
+          53.58058164283455
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3142,
+        "bezeichnung": "Krausestraße N Dehnhaide T212",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37240",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.058105645419099,
+          53.58026567173049
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3144,
+        "bezeichnung": "Straßburger Straße O Probsteier Straße T213",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37241",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057484312333477,
+          53.57957901245664
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3146,
+        "bezeichnung": "Krausestraße S Dehnhaide T215",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37242",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.056238746565928,
+          53.57990463114988
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3148,
+        "bezeichnung": "Dehnhaide W Krausestraße T216",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37243",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.082093314205578,
+          53.55546607893126
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3151,
+        "bezeichnung": "Sievekingsallee NW Rennbahnstraße T231",
+        "letzte_zaehlung": "26.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37244",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.082921853695037,
+          53.55598893421969
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3152,
+        "bezeichnung": "Rennbahnstraße N Hermannstal T228",
+        "letzte_zaehlung": "26.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.085592856973319,
+          53.55476917463661
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3154,
+        "bezeichnung": "Hermannstal O Rennbahnstraße T229",
+        "letzte_zaehlung": "26.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37246",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08414484213132,
+          53.554224987606496
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3156,
+        "bezeichnung": "Rennbahnstraße S Hermannstal T230",
+        "letzte_zaehlung": "26.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37247",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.085381989375973,
+          53.553018221106356
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3165,
+        "bezeichnung": "Washingtonallee SO Bauerberg T233",
+        "letzte_zaehlung": "07.06.2012"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37248",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.084255553989696,
+          53.552650897911164
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3166,
+        "bezeichnung": "Rennbahnstraße S Bauerberg T234",
+        "letzte_zaehlung": "26.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37249",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.152239377797729,
+          53.54359241186495
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3172,
+        "bezeichnung": "Willinghusener Weg N Glinder Straße (Landesgrenze) T246",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37250",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.152805587338047,
+          53.54276894309484
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3174,
+        "bezeichnung": "Möllner Landstraße O Oststeinbeker Weg (Landesgrenze) T247",
+        "letzte_zaehlung": "27.09.2012"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37251",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.15064343807453,
+          53.543176300311686
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3178,
+        "bezeichnung": "Glinder Straße W Oststeinbeker Weg T249",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.124890407420148,
+          53.57138639690031
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3182,
+        "bezeichnung": "Jenfelder Allee N Rodigallee T242",
+        "letzte_zaehlung": "10.01.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37253",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.125573937627895,
+          53.57096646968425
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3184,
+        "bezeichnung": "Rodigallee O Jenfelder Allee T243",
+        "letzte_zaehlung": "24.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.124417200090331,
+          53.570626774735565
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3186,
+        "bezeichnung": "Schiffbeker Weg S Rodigallee T244",
+        "letzte_zaehlung": "24.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37255",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.123671604220442,
+          53.570984354875854
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3188,
+        "bezeichnung": "Rodigallee W Jenfelder Allee T245",
+        "letzte_zaehlung": "14.11.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37256",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.033670532161569,
+          53.58478501474576
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3192,
+        "bezeichnung": "Saarlandstraße N Osterbekstraße T208",
+        "letzte_zaehlung": "24.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37257",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019556750502218,
+          53.582092577649256
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3202,
+        "bezeichnung": "Barmbeker Straße N Weidestraße T207",
+        "letzte_zaehlung": "23.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37258",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01325433719277,
+          53.5794224658144
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3216,
+        "bezeichnung": "Hofweg S Körnerstraße T206",
+        "letzte_zaehlung": "24.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.010021012945057,
+          53.57748122427958
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3222,
+        "bezeichnung": "Herbert-Weichmann-Straße N Am Langenzug T205",
+        "letzte_zaehlung": "23.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37260",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.030089991466326,
+          53.54127316570383
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3235,
+        "bezeichnung": "Amsinckstraße SO Süderstraße T204",
+        "letzte_zaehlung": "18.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37261",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.032848443916453,
+          53.54238199108056
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3245,
+        "bezeichnung": "Heidenkampsweg SO Bullerdeich T203",
+        "letzte_zaehlung": "18.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37262",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.03552244638781,
+          53.55239062388383
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3254,
+        "bezeichnung": "Eiffestraße O Ausschläger Weg T202",
+        "letzte_zaehlung": "20.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37263",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.034039404744515,
+          53.55471363368941
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3264,
+        "bezeichnung": "Borgfelder Straße O Ausschläger Weg T201",
+        "letzte_zaehlung": "20.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37264",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.033142231252842,
+          53.55754393804612
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3274,
+        "bezeichnung": "Bürgerweide O Alfredstraße T200",
+        "letzte_zaehlung": "20.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37265",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019471478434385,
+          53.56536481499816
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3283,
+        "bezeichnung": "Mundsburger Damm NO Armgartstraße T199",
+        "letzte_zaehlung": "20.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37266",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.007594691723268,
+          53.55039091103329
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3294,
+        "bezeichnung": "Altmannbrücke O Klosterwall T194",
+        "letzte_zaehlung": "23.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.007148054178487,
+          53.55192280342811
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3304,
+        "bezeichnung": "Steintordamm O Steintorwall T193",
+        "letzte_zaehlung": "28.02.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00433341285208,
+          53.55417574402677
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3313,
+        "bezeichnung": "Ernst-Merck-Straße NO Glockengießerwall T192",
+        "letzte_zaehlung": "23.05.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.001809067692701,
+          53.55658798702488
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3323,
+        "bezeichnung": "Ferdinandstor NO Lombardsbrücke T191",
+        "letzte_zaehlung": "10.08.2021"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37270",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.022180935632699,
+          53.533071121272116
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3336,
+        "bezeichnung": "Freihafenelbbrücke S Versmannstraße T317",
+        "letzte_zaehlung": "18.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.125824978096372,
+          53.58155322802048
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3347,
+        "bezeichnung": "Kuehnstraße SW Jenfelder Allee T241",
+        "letzte_zaehlung": "20.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37272",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.103488608064824,
+          53.57592745358227
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3352,
+        "bezeichnung": "Holstenhofweg N Gustav-Adolf-Straße T240",
+        "letzte_zaehlung": "20.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.083652990442458,
+          53.54797305520898
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3361,
+        "bezeichnung": "Horner Landstraße NW Horner Rampe T227",
+        "letzte_zaehlung": "25.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37274",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.065823856966093,
+          53.53039785143544
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3371,
+        "bezeichnung": "Ausschläger Allee NW Ausschläger Elbdeich T226",
+        "letzte_zaehlung": "10.09.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37275",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04855266912085,
+          53.5769429531841
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3382,
+        "bezeichnung": "Friedrichsberger Straße N Amselstraße T225",
+        "letzte_zaehlung": "18.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.067056347345138,
+          53.553614602644494
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3398,
+        "bezeichnung": "Hammer Landstraße W Schurzallee-Nord T224",
+        "letzte_zaehlung": "22.03.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.066574374093234,
+          53.559659538887615
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3408,
+        "bezeichnung": "Sievekingsallee W Horner Kreisel T222",
+        "letzte_zaehlung": "23.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37278",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.069354733774517,
+          53.560353836191695
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3411,
+        "bezeichnung": "Hammer Straße NW Horner Kreisel T221",
+        "letzte_zaehlung": "18.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37279",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.060982617413716,
+          53.56848256302426
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3427,
+        "bezeichnung": "Pappelallee SW Hammer Straße T220",
+        "letzte_zaehlung": "18.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37280",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.059030565839318,
+          53.576176479212506
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3433,
+        "bezeichnung": "Stormarner Straße NO Mühlenstraße T217",
+        "letzte_zaehlung": "18.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37281",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.056636339704962,
+          53.583128170543304
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3443,
+        "bezeichnung": "Alter Teichweg NO Lothringer Straße T211",
+        "letzte_zaehlung": "23.11.2022"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37282",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.046995776839877,
+          53.583617432374865
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3453,
+        "bezeichnung": "Bramfelder Straße NO Flachsland T210",
+        "letzte_zaehlung": "23.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.146946782249245,
+          53.5644171444449
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3464,
+        "bezeichnung": "A24 O AS HH-Jenfeld (Landesgrenze) T322",
+        "letzte_zaehlung": "05.09.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37284",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.076805546439713,
+          53.56184209418661
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3473,
+        "bezeichnung": "A24 NO AS HH-Horn T120",
+        "letzte_zaehlung": "05.09.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.111391508374627,
+          53.59334696744375
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3483,
+        "bezeichnung": "Berner Heerweg NO Friedrich-Ebert-Damm T47",
+        "letzte_zaehlung": "07.06.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.110257647665907,
+          53.59274624035083
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3486,
+        "bezeichnung": "Walddörferstraße S Friedrich-Ebert-Damm SO T95",
+        "letzte_zaehlung": "31.05.2007"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37287",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108517246260067,
+          53.59206123338349
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3497,
+        "bezeichnung": "Friedrich-Ebert-Damm SW Tegelweg T94",
+        "letzte_zaehlung": "22.02.2007"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1103182547692,
+          53.593905262562096
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3503,
+        "bezeichnung": "Friedrich-Ebert-Damm NO Friedrich-Ebert-Damm SW T374",
+        "letzte_zaehlung": "22.02.2007"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.06841099479349,
+          53.549863063152706
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3514,
+        "bezeichnung": "Bergedorfer Straße O Schurzallee-Nord T314",
+        "letzte_zaehlung": "23.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.084031709220312,
+          53.546845988920246
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3522,
+        "bezeichnung": "Horner Rampe N AS Horner Rampe T84",
+        "letzte_zaehlung": "23.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37291",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.08647247469492,
+          53.54373159678687
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3525,
+        "bezeichnung": "Bergedorfer Straße SO AS Horner Rampe T82",
+        "letzte_zaehlung": "10.06.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37292",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.083274709771539,
+          53.54438984227684
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3526,
+        "bezeichnung": "Horner Rampe S AS Horner Rampe T83",
+        "letzte_zaehlung": "10.06.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.119957619710808,
+          53.53100870887496
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3535,
+        "bezeichnung": "Bergedorfer Straße SO Rotenbrückenweg T81",
+        "letzte_zaehlung": "25.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.149676509281512,
+          53.550376905633854
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3542,
+        "bezeichnung": "A1 N AS HH-Öjendorf (Landesgrenze) T60",
+        "letzte_zaehlung": "31.12.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14352307102176,
+          53.53824664300195
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3556,
+        "bezeichnung": "A1 S AS HH-Öjendorf T56",
+        "letzte_zaehlung": "31.12.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37296",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01199808569846,
+          53.56034050960811
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3563,
+        "bezeichnung": "An der Alster NO Schmilinskystraße T55",
+        "letzte_zaehlung": "23.01.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37297",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.090221494601964,
+          53.51049171622703
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3572,
+        "bezeichnung": "Andreas-Meyer-Straße N A1 AS HH-Moorfleet T79",
+        "letzte_zaehlung": "22.03.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37298",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.098674075858192,
+          53.51020757932216
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3574,
+        "bezeichnung": "A1 O AS HH-Moorfleet T80",
+        "letzte_zaehlung": "31.12.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37299",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.090859307940558,
+          53.50538006880716
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3576,
+        "bezeichnung": "Amandus-Stubbe-Straße S A1 AS HH-Moorfleet T358",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37300",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.265754799321984,
+          53.47150116442005
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3584,
+        "bezeichnung": "Rothenhauschaussee O Speckenweg (Landesgrenze) T391",
+        "letzte_zaehlung": "03.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.088638936870247,
+          53.51170169283907
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3591,
+        "bezeichnung": "Andreas-Meyer-Straße NW Unterer Landweg T383",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37302",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.091182120217471,
+          53.51325160342106
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3593,
+        "bezeichnung": "Unterer Landweg NO Andreas-Meyer-Straße T384",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.067450966708549,
+          53.55549878105644
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3604,
+        "bezeichnung": "Horner Weg O Mettlerkampsweg T223",
+        "letzte_zaehlung": "18.08.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37304",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.10600522053482,
+          53.54793022692073
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3611,
+        "bezeichnung": "Kattensteert NW Schiffbeker Weg T239",
+        "letzte_zaehlung": "27.09.2012"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37305",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.107872998212185,
+          53.54836239305632
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3613,
+        "bezeichnung": "Schiffbeker Weg NO Schiffbeker Höhe T236",
+        "letzte_zaehlung": "04.04.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37306",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108386646524254,
+          53.54722500787921
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3615,
+        "bezeichnung": "Schiffbeker Höhe SO Schiffbeker Weg T237",
+        "letzte_zaehlung": "05.01.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37307",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.10653587876735,
+          53.54686460522496
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3617,
+        "bezeichnung": "Schiffbeker Weg SW Kattensteert T238",
+        "letzte_zaehlung": "27.09.2012"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.11968214460515,
+          53.58574584175548
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3623,
+        "bezeichnung": "Stein-Hardenberg-Straße NO Tonndorfer Hauptstraße T48",
+        "letzte_zaehlung": "24.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.120143582612801,
+          53.58491452984795
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3624,
+        "bezeichnung": "Tonndorfer Hauptstraße O Stein-Hardenberg-Straße T49",
+        "letzte_zaehlung": "24.08.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37310",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.118184477916309,
+          53.58509465942851
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3627,
+        "bezeichnung": "Stein-Hardenberg-Straße SW Tonndorfer Hauptstraße T131",
+        "letzte_zaehlung": "09.11.2021"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37311",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16502742429484,
+          53.51519756524732
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3631,
+        "bezeichnung": "Bergedorfer Straße NW Heidhorst T320",
+        "letzte_zaehlung": "03.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37312",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.169120166140363,
+          53.51430363581849
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3643,
+        "bezeichnung": "Reinbeker Redder NO Bergedorfer Straße T51",
+        "letzte_zaehlung": "03.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.169960001383341,
+          53.51303693164953
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3655,
+        "bezeichnung": "Bergedorfer Straße SO Reinbeker Redder T50",
+        "letzte_zaehlung": "03.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37314",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.807244444367976,
+          53.46668708015354
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3667,
+        "bezeichnung": "Cuxhavener Straße SW Voßdrift (Landesgrenze) T308",
+        "letzte_zaehlung": "14.05.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37315",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.924018461709123,
+          53.47065925907792
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3678,
+        "bezeichnung": "Stader Straße W AS HH-Heimfeld T72",
+        "letzte_zaehlung": "28.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37316",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.905708526390855,
+          53.49659793877537
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3688,
+        "bezeichnung": "Moorburger Elbdeich W Waltershofer Straße T295",
+        "letzte_zaehlung": "28.01.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.894831895257303,
+          53.45613036269857
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3696,
+        "bezeichnung": "Ehestorfer Heuweg S Beim Bergwerk (Landesgrenze) T294",
+        "letzte_zaehlung": "01.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37318",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.917939997675754,
+          53.44799073259256
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3702,
+        "bezeichnung": "Ehestorfer Weg N Stadtscheide (Landesgrenze) T293",
+        "letzte_zaehlung": "01.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.913836819262182,
+          53.48902125402975
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3712,
+        "bezeichnung": "A7 N AS HH-Moorburg T333",
+        "letzte_zaehlung": "31.07.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37320",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.916588129600218,
+          53.47541775636753
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3716,
+        "bezeichnung": "A7 S AS HH-Moorburg T71",
+        "letzte_zaehlung": "31.07.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96362901398598,
+          53.44882648400527
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3723,
+        "bezeichnung": "Bremer Straße NO Eißendorfer Mühlenweg T351",
+        "letzte_zaehlung": "27.09.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.95762336420054,
+          53.450277077138416
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3731,
+        "bezeichnung": "Friedhofstraße NW Reiherhoopweg T350",
+        "letzte_zaehlung": "27.09.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.955564688127371,
+          53.44443265911706
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3746,
+        "bezeichnung": "Ernst-Bergeest-Weg S Bremer Straße T352",
+        "letzte_zaehlung": "27.09.2005"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37324",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952743192502348,
+          53.44416754332902
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3747,
+        "bezeichnung": "Bremer Straße SW Ernst-Bergeest-Weg T353",
+        "letzte_zaehlung": "14.05.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37325",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.984690350474683,
+          53.45707755546769
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3751,
+        "bezeichnung": "Wilstorfer Straße NW Moorstraße T328",
+        "letzte_zaehlung": "14.05.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37326",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.921139502769856,
+          53.43997480181624
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3761,
+        "bezeichnung": "A7 NW AD Hamburg-Südwest T325",
+        "letzte_zaehlung": "15.12.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37327",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.92996205225623,
+          53.434477021445375
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3765,
+        "bezeichnung": "A7 SO AD Hamburg-Südwest T73",
+        "letzte_zaehlung": "13.11.2018"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.928210546490707,
+          53.43008597836356
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3766,
+        "bezeichnung": "A261 S AD Hamburg-Südwest T324",
+        "letzte_zaehlung": "15.12.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37329",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.941694312533377,
+          53.430663605657344
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3775,
+        "bezeichnung": "A7 SO AS HH-Marmstorf (Landesgrenze) T74",
+        "letzte_zaehlung": "01.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37330",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.930899728752262,
+          53.42572330299914
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3786,
+        "bezeichnung": "Bremer Straße S Lürader Weg (Landesgrenze) T32",
+        "letzte_zaehlung": "06.03.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37331",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.930500322247925,
+          53.42810853350089
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3787,
+        "bezeichnung": "A261 Zubringer Lürade SW Bremer Straße T326",
+        "letzte_zaehlung": "06.03.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37332",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.92636679381556,
+          53.42074261392942
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3796,
+        "bezeichnung": "A261 S AS HH-Marmstorf/Lürade (Landesgrenze) T385",
+        "letzte_zaehlung": "01.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37333",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99558162011327,
+          53.477770130127574
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3801,
+        "bezeichnung": "König-Georg-Deich NW Brücke des 17. Juni T75",
+        "letzte_zaehlung": "29.04.2004"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.996349788740481,
+          53.47518385551548
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3805,
+        "bezeichnung": "Brücke des 17. Juni SO König-Georg-Deich T52",
+        "letzte_zaehlung": "07.02.2008"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.952045358540058,
+          53.49442205725379
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3817,
+        "bezeichnung": "Kattwykdamm SW Kattwykbrücke T292",
+        "letzte_zaehlung": "13.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37336",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.979577442879377,
+          53.45152835164271
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3828,
+        "bezeichnung": "Hohe Straße W Harburger Umgehung T354",
+        "letzte_zaehlung": "01.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.97936121261963,
+          53.45718428199501
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3837,
+        "bezeichnung": "Bremer Straße SW Knoopstraße T355",
+        "letzte_zaehlung": "30.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.976045668983346,
+          53.46037558166595
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3847,
+        "bezeichnung": "Eißendorfer Straße SW Knoopstraße T356",
+        "letzte_zaehlung": "30.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9766876480821,
+          53.461440039629075
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3851,
+        "bezeichnung": "Schwarzenbergstraße NW Zur Seehafenbrücke T357",
+        "letzte_zaehlung": "30.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9813556263512,
+          53.41956631575928
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3866,
+        "bezeichnung": "Hittfelder Straße S Maldfeldstraße (Landesgrenze) T31",
+        "letzte_zaehlung": "14.05.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37341",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.013930740891501,
+          53.430180109047114
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3876,
+        "bezeichnung": "Vogteistraße S Reller (Landesgrenze) T291",
+        "letzte_zaehlung": "22.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37342",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.022956454564481,
+          53.47445566130192
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3882,
+        "bezeichnung": "A1 N AS HH-Harburg T77",
+        "letzte_zaehlung": "02.12.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37343",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02742118175122,
+          53.456564917943844
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3886,
+        "bezeichnung": "A1 S AS HH-Harburg (Landesgrenze) T78",
+        "letzte_zaehlung": "31.12.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37344",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019929487857336,
+          53.4632091629715
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3888,
+        "bezeichnung": "Neuländer Straße W AS HH-Harburg T76",
+        "letzte_zaehlung": "13.02.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37345",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13819324351756,
+          53.48354444063362
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3908,
+        "bezeichnung": "A25 W AS HH-Neuallermöhe-West T375",
+        "letzte_zaehlung": "27.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.177344490994471,
+          53.47529954237277
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3912,
+        "bezeichnung": "Nettelnburger Landweg N A25 AS HH-Nettelnburg T302",
+        "letzte_zaehlung": "06.09.2007"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37347",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.171539502495246,
+          53.47461048828377
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3918,
+        "bezeichnung": "A25 W AS HH-Nettelnburg T376",
+        "letzte_zaehlung": "06.09.2007"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.206155755476452,
+          53.47695388284809
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3922,
+        "bezeichnung": "Curslacker Neuer Deich N A25 AS HH-Bergedorf T301",
+        "letzte_zaehlung": "22.03.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37349",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.222584275181905,
+          53.47709256355128
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3924,
+        "bezeichnung": "A25 O AS HH-Bergedorf T331",
+        "letzte_zaehlung": "27.08.2019"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37350",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.199473283573196,
+          53.47402771648465
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3928,
+        "bezeichnung": "A25 W AS HH-Bergedorf T377",
+        "letzte_zaehlung": "06.09.2007"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37351",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.20679938319895,
+          53.49485401761529
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3933,
+        "bezeichnung": "Lohbrügger Markt NO Lohbrügger Landstraße T300",
+        "letzte_zaehlung": "03.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.21635875236204,
+          53.48649596744493
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3943,
+        "bezeichnung": "Wentorfer Straße NO Am Brink T29",
+        "letzte_zaehlung": "18.04.2007"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37353",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.216373459455088,
+          53.485956460806584
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3945,
+        "bezeichnung": "Am Brink SO Wentorfer Straße T30",
+        "letzte_zaehlung": "10.11.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37354",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.213984447325965,
+          53.486214474336
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3948,
+        "bezeichnung": "Bergedorfer Straße W Am Brink T122",
+        "letzte_zaehlung": "22.03.2023"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.22205012685678,
+          53.50569292863742
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3953,
+        "bezeichnung": "Binnenfeldredder NO Max-Eichholz-Ring (Landesgrenze) T316",
+        "letzte_zaehlung": "03.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37356",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.213767565620744,
+          53.51345413582254
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3964,
+        "bezeichnung": "Reinbeker Redder O Havighorster Weg (Landesgrenze) T315",
+        "letzte_zaehlung": "03.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37357",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.26115138770066,
+          53.46919463149248
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3974,
+        "bezeichnung": "A25 O AS HH-Curslack (Landesgrenze) T341",
+        "letzte_zaehlung": "20.10.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37358",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.191633473680483,
+          53.60925845363122
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3983,
+        "bezeichnung": "Sieker Landstraße NO Merkurring (Landesgrenze) T389",
+        "letzte_zaehlung": "06.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37359",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.194223757520636,
+          53.60516956485144
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 3993,
+        "bezeichnung": "Stapelfelder Straße NO Weg Großlohe (Landesgrenze) T390",
+        "letzte_zaehlung": "06.02.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37360",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108909535009788,
+          53.71427122346881
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4002,
+        "bezeichnung": "Lohe N Hoopwischen (Landesgrenze) T386",
+        "letzte_zaehlung": "01.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37361",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.927420376444392,
+          53.64240240361868
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4017,
+        "bezeichnung": "Oldesloer Straße SW Wunderbrunnen T388",
+        "letzte_zaehlung": "05.01.2015"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37362",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983659673770006,
+          53.48025096680814
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4028,
+        "bezeichnung": "Hohe-Schaar-Straße W Buschwerder Hauptdeich T392",
+        "letzte_zaehlung": "10.11.2022"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37363",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.015347180070851,
+          53.51924127076271
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4032,
+        "bezeichnung": "Veddeler Straße N Georgswerder Bogen T393",
+        "letzte_zaehlung": "16.02.2017"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37364",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0019154743879,
+          53.520190569092115
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4044,
+        "bezeichnung": "Harburger Chaussee O Schlenzigstraße T394",
+        "letzte_zaehlung": "04.06.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37365",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991512908679965,
+          53.50102275077314
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4052,
+        "bezeichnung": "Georg-Wilhelm-Straße N Bei der Wollkämmerei T395",
+        "letzte_zaehlung": "18.06.2009"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37366",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991939554928647,
+          53.500569757821275
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4054,
+        "bezeichnung": "Mengestraße O Georg-Wilhelm-Straße T396",
+        "letzte_zaehlung": "18.06.2009"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37367",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991405901313955,
+          53.500313502358566
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4056,
+        "bezeichnung": "Georg-Wilhelm-Straße S Bei der Wollkämmerei T397",
+        "letzte_zaehlung": "18.06.2009"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37368",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.990841703564382,
+          53.50068673214507
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4058,
+        "bezeichnung": "Bei der Wollkämmerei W Georg-Wilhelm-Straße T398",
+        "letzte_zaehlung": "18.06.2009"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991690349150222,
+          53.48342965746211
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4062,
+        "bezeichnung": "Georg-Wilhelm-Straße N Pollhornweg T399",
+        "letzte_zaehlung": "09.05.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37370",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991974294800212,
+          53.482681206507834
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4066,
+        "bezeichnung": "Georg-Wilhelm-Straße S Pollhornweg T400",
+        "letzte_zaehlung": "09.05.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37371",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991333111766355,
+          53.48297417776919
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4068,
+        "bezeichnung": "Pollhornweg W Georg-Wilhelm-Straße T401",
+        "letzte_zaehlung": "09.05.2006"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37372",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.019942733000322,
+          53.47947038440853
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4074,
+        "bezeichnung": "Stillhorner Weg O Altenfelder Weg T402",
+        "letzte_zaehlung": "14.05.2024"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37373",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.997642327881204,
+          53.54438879321786
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4082,
+        "bezeichnung": "Bei St. Annen N Am Sandtorkai T403",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37374",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.998334308802821,
+          53.54429312842161
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4083,
+        "bezeichnung": "Brooktorkai NO Bei St. Annen T404",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37375",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99797669110148,
+          53.543846663096446
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4086,
+        "bezeichnung": "Osakaallee S Am Sandtorkai T405",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37376",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.997407117999032,
+          53.54401321701928
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4088,
+        "bezeichnung": "Am Sandtorkai W Bei St. Annen T406",
+        "letzte_zaehlung": "04.01.2016"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37377",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999595650995408,
+          53.5414600434588
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4092,
+        "bezeichnung": "Osakaallee N Überseeallee T407",
+        "letzte_zaehlung": "08.10.2015"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37378",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.000101651927672,
+          53.541159175404374
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4094,
+        "bezeichnung": "Überseeallee O Osakaallee T408",
+        "letzte_zaehlung": "08.10.2015"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37379",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.999273723203546,
+          53.54124699777115
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4098,
+        "bezeichnung": "Überseeallee W Osakaallee T409",
+        "letzte_zaehlung": "08.10.2015"
+      },
+      "srsName": "EPSG:4326"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_KFZ_PEGEL_37380",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.003766728213751,
+          53.54107453332758
+        ]
+      },
+      "properties": {
+        "zaehlstelle": 4102,
+        "bezeichnung": "Shanghaiallee N Überseeallee T410",
+        "letzte_zaehlung": "24.09.2020"
+      },
+      "srsName": "EPSG:4326"
+    }
+  ]
+}

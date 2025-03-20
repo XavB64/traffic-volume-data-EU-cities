@@ -1,0 +1,5 @@
+Average annual daily flow (AADF) - major and minor roads 
+https://www.data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts
+
+Methodology:
+https://assets.publishing.service.gov.uk/media/63332990e90e0711d82ae0ed/annual-methodology-note.pdf

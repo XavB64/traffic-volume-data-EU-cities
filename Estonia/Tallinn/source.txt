@@ -1,0 +1,5 @@
+Traffic counts:
+https://avaandmed.eesti.ee/datasets/liiklusloenduse-andmed
+
+Sensors location:
+https://avaandmed.eesti.ee/datasets/liiklusloendusseadmed

@@ -1,0 +1,11 @@
+matplotlib==3.10.0
+geopandas==1.0.1
+osmnx==2.0.1
+pytrack==2.0.6
+contextily==1.6.2
+cartopy==0.24.0
+ipykernel==6.29.5
+fiona==1.10.1
+tqdm==4.67.1
+pandas==2.2.3
+openpyxl==3.1.5

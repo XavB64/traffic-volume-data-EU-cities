@@ -1,0 +1,11 @@
+Live traffic counts API (1min to 1hour):
+https://datastore.brussels/web/data/dataset/9a047e86-3947-424a-84e8-a192f18a735a#access
+
+Example on how to get only hourly results on one detector :
+https://data.mobility.brussels/traffic/api/counts/?request=live&interval=60&featureID=BEL_TD5
+
+Directly in georeferenced format:
+http://data-mobility.irisnet.be/fr/info/traffic_live_geom/
+
+Visualize:
+https://data.mobility.brussels/mobigis/?x=485351&y=6593040&zoom=12&baselayer=urbis_grey&layers=traffic_live_geom%3BTunnels%3B

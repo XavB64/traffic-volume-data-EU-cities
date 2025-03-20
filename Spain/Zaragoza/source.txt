@@ -1,0 +1,8 @@
+Traffic and mobility indicators, The downloading doesn't seem to work often: 
+https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/2300
+
+Ring data: 
+https://www.zaragoza.es/sede/servicio/siu/
+
+Map of 2023 AADT:
+https://www.zaragoza.es/contenidos/movilidad/planoaforos2023.pdf

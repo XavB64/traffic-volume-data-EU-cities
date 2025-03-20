@@ -1,0 +1,4 @@
+National traffic counts, hourly:
+No geographical information but text description, https://www.mdpi.com/2078-2489/14/4/228 encoded it manually on 428 sensors.
+
+https://data.gov.gr/datasets/road_traffic_attica/

@@ -1,0 +1,5 @@
+Only real time data:
+
+https://www.bilbao.eus/opendata/es/catalogo/dato-estado-trafico
+
+Intensidad --> 5min period  ?
