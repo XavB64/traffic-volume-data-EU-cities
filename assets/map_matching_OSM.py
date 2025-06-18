@@ -124,7 +124,7 @@ def points_matching(gdf, start_radius = 3, increase_radius = 3, threshold_radius
         # Convert lanes to float
         gdf_city.loc[gdf_city.lanes.notna(), 'lanes'] = gdf_city.loc[gdf_city.lanes.notna(), 'lanes'].apply(lambda s : float("".join([ele for ele in s if ele.isdigit()])))
         gdf_city['lanes'] = gdf_city.lanes.astype(float)
-        gdf_city['maxspeed'] = gdf_city.maxspeed.astype(float)
+        gdf_city['maxspeed'] = pd.to_numeric(gdf_city['maxspeed'], errors='coerce')
         
     elif response.status_code == 504:
             print('Request denied: Status code 504')
