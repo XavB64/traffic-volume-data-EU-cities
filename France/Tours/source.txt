@@ -1,1 +1,7 @@
+The "Syndicat des mobilités de Touraine" gave explicit agreement to use their georeferenced data that is presented on a static map here:
+https://smt-touraine.fr/fileadmin/syndicat_mobilites_touraine/observatoire_mobilite/2022.08.28_carte_tmja_2022_v2.pdf
+
+An anonymous user also replicated the map using similar data on Umap, but no license has been set:
 https://umap.openstreetmap.fr/en/map/flux-routiers-2022-de-tours-et-de-son-aire-dattrac_991600#13/47.3835/0.6921
+
+We therefore use the "Syndicat des mobilités de Touraine" data.
