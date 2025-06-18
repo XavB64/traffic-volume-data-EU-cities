@@ -20,11 +20,18 @@ def daily_to_aadt(df, sensor_id_name, time_name, column_names):
     The dataframe should represent a year of data
     sensor_id_name : name of index for sensors
     time_name: name of index for time (date like)
-    column_names: a list of attributes to aggregate (average)
+    column_names: a list of attributes to aggregate (average), first element should be related to counting
     """
     
     # Average these values over the number of days
     # for this part, we consider that the variance is the flow is not too great so we can do a simple average for the speeds values
+    
+    # Data capture rate 
+    nb_of_records = df.dropna(subset = column_names[0]).shape[0]
+    # The theoretical number of record is NB sensors X timestamps
+    nb_of_theoretical_records = df.index.levels[0].unique().size * df.index.levels[1].unique().size
+    capture_rate = 100 * nb_of_records / nb_of_theoretical_records
+    print(f'Daily capture rate is {round(capture_rate, 1)} %')
     
     # This is to get AADT (over all days)
     AADT = df.groupby(sensor_id_name).apply(
@@ -52,7 +59,7 @@ def daily_to_aadt(df, sensor_id_name, time_name, column_names):
     # Concat both into a new df
     df = pd.concat([AADT, AAWT], axis = 1)
 
-    return df
+    return df, capture_rate
 
 
 def hourly_to_aadt(df, sensor_id_name, time_name, counts_name, speeds_name = {}, limit_hours = 4, minimum_hours = 24):
@@ -78,6 +85,12 @@ def hourly_to_aadt(df, sensor_id_name, time_name, counts_name, speeds_name = {},
     complete_index = pd.MultiIndex.from_product(
         [unique_sensors, all_times], names=[sensor_id_name, time_name]
     )
+    
+    # Data capture rate 
+    nb_of_records = df.dropna(subset = counts_name[0]).shape[0]
+    # The theoretical number of record is NB sensors X timestamps
+    hourly_capture_rate = 100 * nb_of_records / complete_index.size
+    print(f'Hourly capture rate is {round(hourly_capture_rate, 1)} %')
     
     # Reindex the DataFrame to include missing rows with NaN values
     df = df.reindex(complete_index)
@@ -119,10 +132,10 @@ def hourly_to_aadt(df, sensor_id_name, time_name, counts_name, speeds_name = {},
     )
     
     # Average these values over the number of days
-    df = daily_to_aadt(df, 
+    df, daily_capture_rate = daily_to_aadt(df, 
                        sensor_id_name = sensor_id_name, 
                        time_name = 'date', 
                        column_names = counts_name + list(speeds_name.keys())
                        )
 
-    return df
+    return df, daily_capture_rate, hourly_capture_rate
