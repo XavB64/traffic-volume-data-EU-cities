@@ -18,7 +18,7 @@ import osmnx as ox
 ox.settings.use_cache = False
 ox.settings.log_console = False
 # Select useful tags
-ox.settings.useful_tags_way = ['name', 'highway', 'lanes', 'oneway',  'lanes:backward', 'lanes:forward']
+ox.settings.useful_tags_way = ['name', 'highway', 'lanes', 'oneway', 'maxspeed',  'lanes:backward', 'lanes:forward']
 
 # Pytrack
 from pytrack.graph import distance
@@ -82,7 +82,7 @@ def points_matching(gdf, start_radius = 3, increase_radius = 3, threshold_radius
     """
     
     # Intialize results list
-    closest_roads, highways, distances, lanes, oneway, osmids = list(), list(), list(), list(), list(), list()
+    closest_roads, highways, distances, lanes, oneway, speeds, osmids = list(), list(), list(), list(), list(), list(), list()
     # Extract bounding box
     xmin, ymin, xmax, ymax = gdf.total_bounds
 
@@ -102,7 +102,7 @@ def points_matching(gdf, start_radius = 3, increase_radius = 3, threshold_radius
         # Transform geometries
         gdf_city['geometry'] = gdf_city.geometry.apply(lambda x : LineString([(d['lon'], d['lat']) for d in x]))
         # Create GeoDataFrame and retrieve useful features
-        gdf_city = gpd.GeoDataFrame(gdf_city[['tags.highway', 'tags.name', 'tags.lanes', 
+        gdf_city = gpd.GeoDataFrame(gdf_city[['tags.highway', 'tags.name', 'tags.lanes', 'tags.maxspeed',
                                               'tags.oneway', 'tags.lanes:backward', 'tags.lanes:forward',
                                               'id', 'geometry']],
                     geometry = 'geometry',
@@ -116,6 +116,7 @@ def points_matching(gdf, start_radius = 3, increase_radius = 3, threshold_radius
                 'tags.oneway':'oneway',
                 'tags.lanes:backward':'lanes:backward',
                 'tags.lanes:forward':'lanes:forward',
+                'tags.maxspeed':'maxspeed',
                 'id':'osmid'
                     }, inplace = True)
         print('City downloaded')
@@ -123,6 +124,7 @@ def points_matching(gdf, start_radius = 3, increase_radius = 3, threshold_radius
         # Convert lanes to float
         gdf_city.loc[gdf_city.lanes.notna(), 'lanes'] = gdf_city.loc[gdf_city.lanes.notna(), 'lanes'].apply(lambda s : float("".join([ele for ele in s if ele.isdigit()])))
         gdf_city['lanes'] = gdf_city.lanes.astype(float)
+        gdf_city['maxspeed'] = gdf_city.maxspeed.astype(float)
         
     elif response.status_code == 504:
             print('Request denied: Status code 504')
@@ -173,6 +175,7 @@ def points_matching(gdf, start_radius = 3, increase_radius = 3, threshold_radius
             highways.append(closest_edge["highway"])
             lanes.append(closest_edge["lanes"])
             distances.append(closest_edge["distance"])
+            speeds.append(closest_edge["maxspeed"])
             osmids.append(closest_edge["osmid"])
             # Sometimes oneway attribute is absent but there are lanes backward/forward indicating the osmid accounts for both direction
             if closest_edge["oneway"] :
@@ -192,6 +195,7 @@ def points_matching(gdf, start_radius = 3, increase_radius = 3, threshold_radius
             lanes.append(np.nan)
             oneway.append(np.nan)
             distances.append(np.nan)
+            speeds.append(np.nan)
             osmids.append(np.nan)
     
     # Update results in the gdf
@@ -200,6 +204,7 @@ def points_matching(gdf, start_radius = 3, increase_radius = 3, threshold_radius
     gdf['osm_lanes'] = lanes
     gdf['osm_oneway'] = oneway
     gdf['osm_distance'] = distances
+    gdf['osm_maxspeed'] = speeds
     gdf['osmid'] = osmids
     
     # Show information
@@ -256,6 +261,11 @@ def lines_matching(gdf, name = None, radius = 30, interp = 5):
     edges['lanes'] = edges.lanes.astype(float)
     edges['lanes:forward'] = edges['lanes:forward'].astype(float)
     edges['lanes:backward'] = edges['lanes:backward'].astype(float)
+    # Replaces non-numeric strings (like 'walk') with NaN
+    edges['maxspeed'] = pd.to_numeric(edges['maxspeed'], errors='coerce')
+    # edges['maxspeed'] = edges['maxspeed'].astype(float)
+    
+    
     
     # Innitialize lists to store results
     osm_match=[]
@@ -263,6 +273,7 @@ def lines_matching(gdf, name = None, radius = 30, interp = 5):
     lanes = []
     oneway = []
     highways = []
+    speeds = []
 
     # For each sensor geometry
     for idx in gdf.index:
@@ -299,6 +310,7 @@ def lines_matching(gdf, name = None, radius = 30, interp = 5):
             lanes.append(np.nan)
             oneway.append(np.nan)
             highways.append(np.nan)
+            speeds.append(np.nan)
         else : 
             # Perform the map-matching process
             try : 
@@ -311,7 +323,7 @@ def lines_matching(gdf, name = None, radius = 30, interp = 5):
                     edges_id.append(G_interp.edges[(path_elab[k], path_elab[k+1], 0)]['osmid'])
                 
                 # We keep the main occurence
-                osmid = main_occurence(list(np.unique(edges_id)))
+                osmid = main_occurence(list(edges_id))
                 
                 if osmid is None :
                     # Corresponding link not found (empty list)
@@ -320,10 +332,11 @@ def lines_matching(gdf, name = None, radius = 30, interp = 5):
                     lanes.append(np.nan)
                     oneway.append(np.nan)
                     highways.append(np.nan)
+                    speeds.append(np.nan)
                 else :
                     # Get the name and highway attribute
-                    name_val, high_val, lanes_val, oneway_val, laneback_val, lanefor_val = t.loc[t.osmid == osmid][[
-                        'name', 'highway', 'lanes', 'oneway', 'lanes:backward', 'lanes:forward',
+                    name_val, high_val, lanes_val, oneway_val, laneback_val, lanefor_val, maxspeed = t.loc[t.osmid == osmid][[
+                        'name', 'highway', 'lanes', 'oneway', 'lanes:backward', 'lanes:forward', 'maxspeed'
                     ]].values[0]
                     # Add to lists
                     names.append(name_val)
@@ -331,6 +344,7 @@ def lines_matching(gdf, name = None, radius = 30, interp = 5):
                     lanes.append(lanes_val)
                     oneway.append(oneway_val if oneway_val else False if not np.isnan(laneback_val) | np.isnan(lanefor_val) else np.nan)
                     osm_match.append(osmid)
+                    speeds.append(maxspeed)
                               
                  
             except Exception as e :
@@ -341,6 +355,7 @@ def lines_matching(gdf, name = None, radius = 30, interp = 5):
                 lanes.append(np.nan)
                 oneway.append(np.nan)
                 highways.append(np.nan)
+                speeds.append(np.nan)
 
 
     # This is to save all osmids in geographical data ref
@@ -348,6 +363,7 @@ def lines_matching(gdf, name = None, radius = 30, interp = 5):
     gdf['osm_type'] = highways
     gdf['osm_lanes'] = lanes
     gdf['osm_oneway'] = oneway
+    gdf['osm_maxspeed'] = speeds
     gdf['osmid'] = osm_match
 
     # Show information
