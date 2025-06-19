@@ -36,6 +36,8 @@ from shapely.ops import transform
 ### Points ###
 ##############
 
+miles_to_km = 1.60934
+
 # This is the ranking of highway importance for our algorithm
 highway_importance = {
     "motorway": 1,
@@ -124,7 +126,14 @@ def points_matching(gdf, start_radius = 3, increase_radius = 3, threshold_radius
         # Convert lanes to float
         gdf_city.loc[gdf_city.lanes.notna(), 'lanes'] = gdf_city.loc[gdf_city.lanes.notna(), 'lanes'].apply(lambda s : float("".join([ele for ele in s if ele.isdigit()])))
         gdf_city['lanes'] = gdf_city.lanes.astype(float)
-        gdf_city['maxspeed'] = pd.to_numeric(gdf_city['maxspeed'], errors='coerce')
+        if gdf_city['maxspeed'].dropna().values[0][-3:] == 'mph' :
+            # Happens in the UK
+            gdf_city['maxspeed'] = gdf_city['maxspeed'].apply(lambda x: str(x).split(' ')[0]) # Take only the value
+            gdf_city['maxspeed'] = pd.to_numeric(gdf_city['maxspeed'], errors='coerce') # Convert to float if possible
+            gdf_city['maxspeed'] = gdf_city['maxspeed'] * miles_to_km # Convert to km
+        else : 
+            # Convert to float directly
+            gdf_city['maxspeed'] = pd.to_numeric(gdf_city['maxspeed'], errors='coerce')
         
     elif response.status_code == 504:
             print('Request denied: Status code 504')
