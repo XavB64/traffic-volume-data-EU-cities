@@ -1,59 +1,59 @@
-country,city_name,lat,lon,data_presence,treated_data,years,source_start_year,source_frequency,national_source,techno,nb_sensors,AADT,AAWT,observations,direction,license
-Austria,Vienna,48.20243416573281,16.36734148663426,True,True,2016-2024,2016,monthly,False,Static sensors,87,True,True,,Both,Creative Commons Attribution 4.0 International (CC BY 4.0)
-Belgium,Brussels,50.84747726582516,4.348653395926163,True,False,,,sub hourly,False,Camera - Inductive loop,89,,,Only real time data,,Creative Commons CC0 1.0 Universal
-Bulgaria,Sofia,42.69010343442944,23.315704411051374,False,False,,,,,,,,,,,
-Croatia,Zagreb,45.809969345389085,15.977408274564834,False,False,,,,,,,,,,,
-Cyprus,Nicosia,35.18270559344151,33.37216727887946,True,False,2014,2014,yearly,True,,58,True,False,No geographical reference,,Creative Commons Attribution 4.0 International (CC BY 4.0)
-Czechia,Prague,50.08261131729919,14.42163617498207,True,False,2021-2022,2021,sub hourly,False,,4,,,No geographical reference - only over 24h,,
-Czechia,Brno,49.194344946487774,16.610907629578936,True,True,2016-2023,2016,yearly,False,,590,True,False,,Lines,Licence CC BY-SA 4.0
-Denmark,Copenhagen,55.68433214348507,12.565661246593129,True,True,2015-2024,2009,yearly,False,Temporary counts,592,True,False,Sensor location is changing from a year to another,Both,Creative Commons CC0 1.0 Universal
-Estonia,Tallinn,59.43529132714056,24.721066812867186,True,False,2024,2020,hourly,True,,21,True,False,Only on major axis near the city,Both,Creative Commons Attribution-ShareAlike 3.0 Unported
-Finland,Helsinki,60.1618370889785,24.94339010858924,True,True,2015-2023,2010,yearly,False,Mostly Automatic,54,True,False,average values per hour (Average Annual Hourly Traffic),Both,Creative Commons Attribution 4.0 International (CC BY 4.0)
-France,Paris,48.8546842486544,2.346719480273853,True,True,2023,2014,hourly,False,Inductive loop,1899,True,True,,Lines-Oneway,Open Data Commons Open Database License (ODbL)
-France,Grenoble,45.18446787859696,5.722405554558146,True,True,2022,2022,yearly,False,Inductive loop,154,True,False,,Oneway,Open Data Commons Open Database License 1.0
-France,Toulouse,43.58864984395768,1.4321372705403463,True,True,2018-2023,2018,yearly,False,Pneumatic tube - Camera - Radar,2412,False,True,Sensor location is changing from a year to another,Lines,Licence Ouverte v2.0 (Etalab)
-France,Lyon,45.75816062227996,4.833065679585558,True,True,2019-2023,2019,yearly,False,Inductive loop,1713,False,True,Per lane measurements - moslty 2023 very few data points for other years,Oneway,Licence Ouverte v2.0 (Etalab)
-France,Lille,50.62451788640263,3.054790125582174,True,True,2015-2024,2012,yearly,False,Inductive loop - Pneumatic tube,3744,False,True,is available - temporary counts for specific needs,Lines-Oneway,Licence Ouverte v2.0 (Etalab)
-France,Nantes,47.20975743141928,-1.5517558009486203,True,False,,,,False,,847,,,Only real time data,,Open Data Commons Open Database License (ODbL)
-France,Bordeaux,44.84567800221336,-0.5726270136574566,True,True,2019-2023,2010,yearly,False,Inductive loop,576,False,True,Other source of data with temporary counts exist - down to 5min measurements,Oneway,Open License
-France,Rennes,48.11063277655209,-1.6805513275203234,True,True,2015-2024,1995,yearly,False,Stationary and Temporary,2043,True,False,More details on direction are provided - major axis have Oneway measurements,Both,Open Data Commons Open Database License (ODbL)
-France,Marseille,43.2842259615836,5.378569784378998,True,True,2020,2020,yearly,False - Regional ?,Model,21232,True,False,More details on direction are provided,Lines,Licence Ouverte v2.0 (Etalab)
-France,Rouen,49.43964369246008,1.0911673550423466,True,True,2015-2024,2010,yearly,False,Temporary,2229,True,True,Stationary counts were sometimes lanes level - no common id to combine to the entire section,Both,Licence Ouverte v2.0 (Etalab)
-France,Montpellier,43.60526334348612,3.88034547569931,True,True,2015-2024,2011,yearly,False,Manual - Pneumatic tube - Other sensors,5079,True,True,OSMID already provided,Both,Open Data Commons Open Database License (ODbL)
-France,Tours,47.40065256962141,0.6951136177972459,True,True,2022,2022,yearly,False,,226,False,True,Z coordinate in geometry - Id from BD TOPO,Lines,No License
-Germany,Berlin,52.50555030453751,13.41093696044321,True,True,2023-2024,2015,hourly,False,,217,True,True,lane level data is available,Oneway,Datenlizenz Deutschland - Namensnennung - Version 2.0
-Germany,Hamburg,53.549862928440135,10.00452587953389,True,True,2015-2023,2004,yearly,False,Inductive loop - Infrared - Manual,300,True,True,Other data are available on the same website,Both,Datenlizenz Deutschland - Namensnennung - Version 2.0
-Germany,Cologne,50.93669643786307,6.953744134986205,True,False,,,,,,,,,Only real time data on congestion,,Datenlizenz Deutschland - Zero - Version 2.0
-Germany,Munich,48.13695098315725,11.566848487921344,True,False,,,,,,,,,Only static pdf map,,
-Greece,Athens,37.97406038605868,23.717151799510823,True,False,2024,2020,hourly,False - Regional,Stations,380,,,No geographical reference,,
-Hungary,Budapest,47.492784087246974,19.05374009174372,True,False,,2022,daily,False,Inductive loop - Camera,19,,,Not possible to download,,
-Ireland,Dublin,53.34551797524628,-6.270917152837484,True,True,2023,2020,hourly,False,Inductive loop,533,True,True,located at crossings,Both,Creative Commons Attribution 4.0 International (CC BY 4.0)
-Italy,Rome,41.9011655670079,12.47769443868099,True,False,,2017,monthly,False - Regional,Model,742,,,Not possible to download - based on Floating Car Data,,
-Italy,Milan,45.46318582513595,9.188028356105852,True,True,2024,2012,sub hourly,False,Camera,40,True,True,Jan to Sep - entrance from outer ring only,Oneway,Creative Commons Attribution 4.0 International (CC BY 4.0)
-Latvia,Riga,56.96255997556722,24.103322638184824,True,False,2024,2011,daily,True,,7,True,False,Only on major axis near the city,,Creative Commons CC0 1.0 Universal
-Lithuania,Vilnius,54.68189324136519,25.27228264837106,True,False,,,,,,,,,Found only a github which is archived,,
-Luxembourg,Luxembourg,49.6028557025366,6.130132887146892,True,True,2023,2016,dailly,True,Radar,64,True,True,,Both,Creative Commons CC0 3.0 Luxembourg
-Malta,Valletta,35.89748689514532,14.511556355686304,False,False,,,,,,,,,,,
-Netherlands,Amsterdam,52.37677284201249,4.895704933673371,True,True,2019-2025,2019,yearly,False,Model,29567,True,False,Projection for the future: 2030 - 2035 - 2040 - 2050,Lines,Specific
-Norway,Oslo,59.90614908926718,10.7686266680462,True,True,2015-2024,1985,hourly,True,Inductive loop,520,True,False,use of an API with several aggregation level,Oneway,Norwegian Licence for Open Government Data (NLOD)
-Poland,Warsaw,52.23780099956512,21.01413556052767,True,False,2023,2012,yearly,False,Automatic,53,,,Not possible to download - measurement over a year,,
-Portugal,Lisbon,38.71806254519334,-9.137848275290107,True,True,2021-2024,2021,hourly,False,,14,True,False,custom geometries,Lines-Oneway,Creative Commons Attribution 4.0 International (CC BY 4.0)
-Romania,Bucharest,44.42333130699686,26.098068299358264,False,False,,,,,,,,,,,
-Slovakia,Bratislava,48.14216593677372,17.108362033520258,False,False,,,,,,,,,,,
-Slovenia,Ljubljana,46.05060212133623,14.502914684670596,True,False,2023,1997,yearly,True,Automatic,76,True,False,Only on major axis near the city,Oneway,Creative Commons Attribution 4.0 International (CC BY 4.0)
-Spain,Valencia,39.46886418889253,-0.3782810097947831,True,True,2016-2022,2016,monthly,False,Inductive loop,384,False,True,,Both,Creative Commons Attribution 4.0 International (CC BY 4.0)
-Spain,Bilbao,43.2601908828659,-2.9347669573131543,True,False,,,,False,,81,,,Only real time data,,
-Spain,Zaragoza,41.65047607430794,-0.8843702044248988,True,False,,,,False,,,,,No geographical reference,,
-Spain,Barcelona,41.39705975025471,2.1705869148089305,True,True,2018-2024,2018,yearly,False,,9,False,True,custom geometries,Lines-Both,Creative Commons CC-BY
-Spain,Madrid,40.43731469076019,-3.6877958431690616,True,True,2024,2013,sub hourly,False,Inductive loop - Camera,4757,True,True,,Lines-Oneway,Specific
-Sweden,Malmo,55.59915622249947,13.00563401995383,True,True,2015-2024,1967,yearly,False,,200,True,False,perpendicular line geometries,Both,Creative Commons CC0 1.0 Universal
-Sweden,Stockholm,59.32401904545032,18.071491268785653,True,True,2015-2024,1990,yearly,False,,2000,True,False,Lines but sometimes monitor both ways,Lines-Depends,No Restriction
-Switzerland,Zurich,47.38252663572705,8.525402388042744,True,True,2024,2012,hourly,False,,205,True,True,,Oneway,Creative Commons CC0 1.0 Universal
-Switzerland,Lausanne,46.5181989549484,6.630092540374055,True,False,,,,,,,,,Only regional roads,,Specific
-Switzerland,Geneva,46.2016148046925,6.141321350821769,True,True,2017-2019,2012,yearly,False,Inductive loop - Pneumatic tube,321,True,True,,Oneway,Specific
-United Kingdom,London,51.49305652950391,-0.0988591746669114,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,2044,True,False,,Oneway,Open Government Licence
-United Kingdom,Birmingham,52.480236645810905,-1.8925211955716823,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,219,True,False,,Oneway,Open Government Licence
-United Kingdom,Manchester,53.479477115125746,-2.243100705855477,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,185,True,False,,Oneway,Open Government Licence
-United Kingdom,Glasgow,55.859026308422514,-4.26385013165214,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,204,True,False,,Oneway,Open Government Licence
-United Kingdom,Edinburgh,55.95147193855486,-3.1893105090776035,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,105,True,False,,Oneway,Open Government Licence
-United Kingdom,Cardiff,51.481505880531074,-3.16556788350701,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,77,True,False,,Oneway,Open Government Licence
+country,city_name,lat,lon,data_presence,treated_data,years,source_start_year,source_frequency,national_source,techno,nb_sensors,AADT,AAWT,observations,direction,license,daily_capture_rate,hourly_capture_rate
+Austria,Vienna,48.20243416573281,16.36734148663426,True,True,2016-2024,2016,monthly,False,Static sensors,87,True,True,,Both,Creative Commons Attribution 4.0 International (CC BY 4.0),,
+Belgium,Brussels,50.84747726582516,4.348653395926163,True,False,,,sub hourly,False,Camera - Inductive loop,89,,,Only real time data,,Creative Commons CC0 1.0 Universal,,
+Bulgaria,Sofia,42.69010343442944,23.315704411051374,False,False,,,,,,,,,,,,,
+Croatia,Zagreb,45.809969345389085,15.977408274564834,False,False,,,,,,,,,,,,,
+Cyprus,Nicosia,35.18270559344151,33.37216727887946,True,False,2014,2014,yearly,True,,58,True,False,No geographical reference,,Creative Commons Attribution 4.0 International (CC BY 4.0),,
+Czechia,Prague,50.08261131729919,14.42163617498207,True,False,2021-2022,2021,sub hourly,False,,4,,,No geographical reference - only over 24h,,,,
+Czechia,Brno,49.194344946487774,16.610907629578936,True,True,2016-2023,2016,yearly,False,,590,True,False,,Lines,Licence CC BY-SA 4.0,,
+Denmark,Copenhagen,55.68433214348507,12.565661246593129,True,True,2015-2024,2009,yearly,False,Temporary counts,592,True,False,Sensor location is changing from a year to another,Both,Creative Commons CC0 1.0 Universal,,
+Estonia,Tallinn,59.43529132714056,24.721066812867186,True,False,2024,2020,hourly,True,,21,True,False,Only on major axis near the city,Both,Creative Commons Attribution-ShareAlike 3.0 Unported,,
+Finland,Helsinki,60.1618370889785,24.94339010858924,True,True,2015-2023,2010,yearly,False,Mostly Automatic,54,True,False,average values per hour (Average Annual Hourly Traffic),Both,Creative Commons Attribution 4.0 International (CC BY 4.0),,
+France,Paris,48.8546842486544,2.346719480273853,True,True,2023,2014,hourly,False,Inductive loop,1887,True,True,,Lines-Oneway,Open Data Commons Open Database License (ODbL),81.3,81.4
+France,Grenoble,45.18446787859696,5.722405554558146,True,True,2022,2022,yearly,False,Inductive loop,154,True,False,,Oneway,Open Data Commons Open Database License 1.0,,
+France,Toulouse,43.58864984395768,1.4321372705403463,True,True,2018-2023,2018,yearly,False,Pneumatic tube - Camera - Radar,2412,False,True,Sensor location is changing from a year to another,Lines,Licence Ouverte v2.0 (Etalab),,
+France,Lyon,45.75816062227996,4.833065679585558,True,True,2019-2023,2019,yearly,False,Inductive loop,1713,False,True,Per lane measurements - moslty 2023 very few data points for other years,Oneway,Licence Ouverte v2.0 (Etalab),,
+France,Lille,50.62451788640263,3.054790125582174,True,True,2015-2024,2012,yearly,False,Inductive loop - Pneumatic tube,3744,False,True,is available - temporary counts for specific needs,Lines-Oneway,Licence Ouverte v2.0 (Etalab),,
+France,Nantes,47.20975743141928,-1.5517558009486203,True,False,,,,False,,847,,,Only real time data,,Open Data Commons Open Database License (ODbL),,
+France,Bordeaux,44.84567800221336,-0.5726270136574566,True,True,2019-2023,2010,yearly,False,Inductive loop,576,False,True,Other source of data with temporary counts exist - down to 5min measurements,Oneway,Open License,,
+France,Rennes,48.11063277655209,-1.6805513275203234,True,True,2015-2024,1995,yearly,False,Stationary and Temporary,2043,True,False,More details on direction are provided - major axis have Oneway measurements,Both,Open Data Commons Open Database License (ODbL),,
+France,Marseille,43.2842259615836,5.378569784378998,True,True,2020,2020,yearly,False - Regional ?,Model,21232,True,False,More details on direction are provided,Lines,Licence Ouverte v2.0 (Etalab),,
+France,Rouen,49.43964369246008,1.0911673550423466,True,True,2015-2024,2010,yearly,False,Temporary,2229,True,True,Stationary counts were sometimes lanes level - no common id to combine to the entire section,Both,Licence Ouverte v2.0 (Etalab),,
+France,Montpellier,43.60526334348612,3.88034547569931,True,True,2015-2024,2011,yearly,False,Manual - Pneumatic tube - Other sensors,5079,True,True,OSMID already provided,Both,Open Data Commons Open Database License (ODbL),,
+France,Tours,47.40065256962141,0.6951136177972459,True,True,2019-2022,2019,yearly,False,,226,False,True,Id from BD TOPO,Lines,Written authorisation,,
+Germany,Berlin,52.50555030453751,13.41093696044321,True,True,2023-2024,2015,hourly,False,,217,True,True,lane level data is available,Oneway,Datenlizenz Deutschland - Namensnennung - Version 2.0,61.1,63.9
+Germany,Hamburg,53.549862928440135,10.00452587953389,True,True,2015-2023,2004,yearly,False,Inductive loop - Infrared - Manual,300,True,True,Other data are available on the same website,Both,Datenlizenz Deutschland - Namensnennung - Version 2.0,,
+Germany,Cologne,50.93669643786307,6.953744134986205,True,False,,,,,,,,,Only real time data on congestion,,Datenlizenz Deutschland - Zero - Version 2.0,,
+Germany,Munich,48.13695098315725,11.566848487921344,True,False,,,,,,,,,Only static pdf map,,,,
+Greece,Athens,37.97406038605868,23.717151799510823,True,False,2024,2020,hourly,False - Regional,Stations,380,,,No geographical reference,,,,
+Hungary,Budapest,47.492784087246974,19.05374009174372,True,False,,2022,daily,False,Inductive loop - Camera,19,,,Not possible to download,,,,
+Ireland,Dublin,53.34551797524628,-6.270917152837484,True,True,2023,2020,hourly,False,Inductive loop,533,True,True,located at crossings,Both,Creative Commons Attribution 4.0 International (CC BY 4.0),95.5,92.7
+Italy,Rome,41.9011655670079,12.47769443868099,True,False,,2017,monthly,False - Regional,Model,742,,,Not possible to download - based on Floating Car Data,,,,
+Italy,Milan,45.46318582513595,9.188028356105852,True,True,2024,2012,sub hourly,False,Camera,40,True,True,Jan to Sep - entrance from outer ring only,Oneway,Creative Commons Attribution 4.0 International (CC BY 4.0),100,100
+Latvia,Riga,56.96255997556722,24.103322638184824,True,False,2024,2011,daily,True,,7,True,False,Only on major axis near the city,,Creative Commons CC0 1.0 Universal,,
+Lithuania,Vilnius,54.68189324136519,25.27228264837106,True,False,,,,,,,,,Found only a github which is archived,,,,
+Luxembourg,Luxembourg,49.6028557025366,6.130132887146892,True,True,2023,2016,dailly,True,Radar,64,True,True,,Both,Creative Commons CC0 3.0 Luxembourg,93.7,
+Malta,Valletta,35.89748689514532,14.511556355686304,False,False,,,,,,,,,,,,,
+Netherlands,Amsterdam,52.37677284201249,4.895704933673371,True,True,2019-2025,2019,yearly,False,Model,29567,True,False,Projection for the future: 2030 - 2035 - 2040 - 2050,Lines,Specific,,
+Norway,Oslo,59.90614908926718,10.7686266680462,True,True,2015-2024,1985,hourly,True,Inductive loop,520,True,False,use of an API with several aggregation level,Oneway,Norwegian Licence for Open Government Data (NLOD),,
+Poland,Warsaw,52.23780099956512,21.01413556052767,True,False,2023,2012,yearly,False,Automatic,53,,,Not possible to download - measurement over a year,,,,
+Portugal,Lisbon,38.71806254519334,-9.137848275290107,True,True,2021-2024,2021,hourly,False,,14,True,False,custom geometries,Lines-Oneway,Creative Commons Attribution 4.0 International (CC BY 4.0),83.3,33.2
+Romania,Bucharest,44.42333130699686,26.098068299358264,False,False,,,,,,,,,,,,,
+Slovakia,Bratislava,48.14216593677372,17.108362033520258,False,False,,,,,,,,,,,,,
+Slovenia,Ljubljana,46.05060212133623,14.502914684670596,True,False,2023,1997,yearly,True,Automatic,76,True,False,Only on major axis near the city,Oneway,Creative Commons Attribution 4.0 International (CC BY 4.0),,
+Spain,Valencia,39.46886418889253,-0.3782810097947831,True,True,2016-2022,2016,monthly,False,Inductive loop,384,False,True,,Both,Creative Commons Attribution 4.0 International (CC BY 4.0),,
+Spain,Bilbao,43.2601908828659,-2.9347669573131543,True,False,,,,False,,81,,,Only real time data,,,,
+Spain,Zaragoza,41.65047607430794,-0.8843702044248988,True,False,,,,False,,,,,No geographical reference,,,,
+Spain,Barcelona,41.39705975025471,2.1705869148089305,True,True,2018-2024,2018,yearly,False,,9,False,True,custom geometries,Lines-Both,Creative Commons CC-BY,,
+Spain,Madrid,40.43731469076019,-3.6877958431690616,True,True,2024,2013,sub hourly,False,Inductive loop - Camera,4757,True,True,,Lines-Oneway,Specific,94.4,94.3
+Sweden,Malmo,55.59915622249947,13.00563401995383,True,True,2015-2024,1967,yearly,False,,200,True,False,perpendicular line geometries,Both,Creative Commons CC0 1.0 Universal,,
+Sweden,Stockholm,59.32401904545032,18.071491268785653,True,True,2015-2024,1990,yearly,False,,2000,True,False,Lines but sometimes monitor both ways,Lines-Depends,No Restriction,,
+Switzerland,Zurich,47.38252663572705,8.525402388042744,True,True,2024,2012,hourly,False,,205,True,True,,Oneway,Creative Commons CC0 1.0 Universal,91.9,89.7
+Switzerland,Lausanne,46.5181989549484,6.630092540374055,True,False,,,,,,,,,Only regional roads,,Specific,,
+Switzerland,Geneva,46.2016148046925,6.141321350821769,True,True,2017-2019,2012,yearly,False,Inductive loop - Pneumatic tube,321,True,True,,Oneway,Specific,,
+United Kingdom,London,51.49305652950391,-0.0988591746669114,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,2044,True,False,,Oneway,Open Government Licence,,
+United Kingdom,Birmingham,52.480236645810905,-1.8925211955716823,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,219,True,False,,Oneway,Open Government Licence,,
+United Kingdom,Manchester,53.479477115125746,-2.243100705855477,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,185,True,False,,Oneway,Open Government Licence,,
+United Kingdom,Glasgow,55.859026308422514,-4.26385013165214,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,204,True,False,,Oneway,Open Government Licence,,
+United Kingdom,Edinburgh,55.95147193855486,-3.1893105090776035,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,105,True,False,,Oneway,Open Government Licence,,
+United Kingdom,Cardiff,51.481505880531074,-3.16556788350701,True,True,2015-2023,2000,yearly,True,Manual - Automatic - Model,77,True,False,,Oneway,Open Government Licence,,
