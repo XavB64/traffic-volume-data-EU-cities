@@ -5,10 +5,11 @@
 import pandas as pd
 import numpy as np
 
-def validate_dataset(gdf, min_val = 2, max_val = 2e5):
-    
+def validate_dataset(gdf, min_val = 2, max_val = 2e5, var = None):
+    # Select right variable
+    if not var :
+        var = 'AADT' if 'AADT' in gdf.columns else 'AAWT'
     # Ensure there are no NaN values
-    var = 'AADT' if 'AADT' in gdf.columns else 'AAWT'
     print(f'Number of NaN values for {var}: {gdf[var].isna().sum()}')
     gdf.dropna(subset = var, inplace=True)
     
