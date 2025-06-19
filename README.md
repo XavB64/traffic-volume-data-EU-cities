@@ -78,6 +78,7 @@ The geometries in the final files are expected to be one of the following:
 | osm_type    | text  | The OSM “highway” classification type. |
 | osm_lanes   | float | The number of lanes of the matched road segment. Many values could be missing. |
 | osm_oneway  | boolean | Whether or not the matched road segment has flow in one direction only. Retrieved from the presence of the `oneway` attribute or `lanes:backward/forward` in OSM. Many values could be missing. |
+| osm_maxspeed   | float | The indicated speed limit on the road segment (km/h) retrieved from “maxspeed” in OSM. |
 | osm_distance | float | The distance (meters) between the sensor location and the matched road segment (for point geometries only). This can serve as a quality indicator for the matching process. |
 
 ## How to Contribute
@@ -108,3 +109,7 @@ To optimize the repository's size and usability:
 - Ensure the final data uses one of the accepted geometries (Points or oriented LineStrings).
 
 This ensures transparency and reproducibility for all contributors and users.
+
+## Reference
+
+This work is currently under review in Nature Scientific Data
