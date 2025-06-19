@@ -140,3 +140,5 @@ fi3.png
 fi3.svg
 assets/example
 assets/cities_available.ipynb
+assets/__pycache__/validate_dataset.cpython-312.pyc
+France/Tours/raw/flux_routiers_2022_de_tours_et_de_son_aire_d_attraction.geojson
