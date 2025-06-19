@@ -16,10 +16,10 @@ def validate_dataset(gdf, min_val = 2, max_val = 2e5):
     gdf.dropna(subset = 'geometry', inplace=True)
     
     # Remove outliers
-    print(f'Number of <{min_val} values for {var}: {gdf[gdf[var] < min_val].shape[0]}')
+    print(f'Number of low outliers for {var}: {gdf[gdf[var] < min_val].shape[0]}')
     gdf = gdf[gdf[var] >= min_val]
     
-    print(f'Number of >{max_val} values for {var}: {gdf[gdf[var] > max_val].shape[0]}')
+    print(f'Number of high outliers for {var}: {gdf[gdf[var] > max_val].shape[0]}')
     gdf = gdf[gdf[var] <= max_val]
     
     return gdf
