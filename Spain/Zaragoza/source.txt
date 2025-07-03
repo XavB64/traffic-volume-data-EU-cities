@@ -4,5 +4,5 @@ https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/2300
 Ring data: 
 https://www.zaragoza.es/sede/servicio/siu/
 
-Map of 2023 AADT:
+Static Map of 2023 AADT:
 https://www.zaragoza.es/contenidos/movilidad/planoaforos2023.pdf
