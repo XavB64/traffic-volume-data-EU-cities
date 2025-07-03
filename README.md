@@ -1,5 +1,7 @@
 # Harmonized Annual Averaged Traffic Data at Street Segment Level for European Cities
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15796948.svg)](https://doi.org/10.5281/zenodo.15796948)
+
 This repository provides a framework for standardizing road traffic data from various European cities. Many cities offer road count data on their open data websites, but these datasets often differ in language, format, variables, and geometries. This project aims to harmonize these datasets into a standardized structure for ease of analysis and integration.
 
 ## Repository Structure
